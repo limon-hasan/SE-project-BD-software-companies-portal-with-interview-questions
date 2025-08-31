@@ -1,0 +1,164 @@
+[
+  {
+    "name": "AppifyLab",
+    "description": "Appify lab has a LMS(Learning Management System) product name EzyCourse",
+    "website": "https://www.appifylab.com",
+    "application_link": "https://www.appifylab.com/career",
+    "founding_year": "",
+    "technologies": [],
+    "intro": "Appify lab has a LMS(Learning Management System) product name EzyCourse",
+    "location": ""
+  },
+  {
+    "name": "Bkash",
+    "description": "Bkash Ltd. is a leading mobile financial service (MFS) provider in Bangladesh, focused on enabling digital financial inclusion. It is a subsidiary of BRAC Bank and partners with global players like Ant Financial.",
+    "website": "https://www.bkash.com",
+    "application_link": "https://www.bkash.com/careers",
+    "founding_year": "",
+    "technologies": [],
+    "intro": "Bkash Ltd. is a leading mobile financial service (MFS) provider in Bangladesh, focused on enabling digital financial inclusion. It is a subsidiary of BRAC Bank and partners with global players like Ant Financial.",
+    "location": ""
+  },
+  {
+    "name": "Chaldal",
+    "description": "Chaldal.com, founded in 2013, is a grocery e-commerce platform in Bangladesh. They maintain the whole system by themselves. So, they are a tech company too and arguably one the most prestigious tech company in Bangladesh.",
+    "website": "https://chaldal.com/",
+    "application_link": "https://chaldal.tech/",
+    "founding_year": "2013",
+    "technologies": [".NET", "F#", "C#", "SQL Server", "TypeScript", "JavaScript", "Xamarin", "Android", "React", "React Native", "Microsoft Orleans"],
+    "intro": "Chaldal.com, founded in 2013, is a grocery e-commerce platform in Bangladesh. They maintain the whole system by themselves. So, they are a tech company too and arguably one the most prestigious tech company in Bangladesh.",
+    "location": "Bangladesh"
+  },
+  {
+    "name": "Bevy Commerce",
+    "description": "",
+    "website": "",
+    "application_link": ""
+  },
+  {
+    "name": "Brain Station 23",
+    "description": "A leading software company in Bangladesh.",
+    "website": "https://brainstation-23.com",
+    "application_link": "https://brainstation-23.com/career/"
+  },
+  {
+    "name": "DSI",
+    "description": "",
+    "website": "",
+    "application_link": ""
+  },
+  {
+    "name": "Enosis Solutions",
+    "description": "",
+    "website": "https://www.enosisbd.com/",
+    "application_link": "https://enosisbd.pinpointhq.com/"
+  },
+  {
+    "name": "Exabyting",
+    "description": "",
+    "website": "",
+    "application_link": ""
+  },
+  {
+    "name": "Fringecore",
+    "description": "",
+    "website": "",
+    "application_link": ""
+  },
+  {
+    "name": "Inverse AI",
+    "description": "",
+    "website": "",
+    "application_link": ""
+  },
+  {
+    "name": "IQVIA",
+    "description": "",
+    "website": "",
+    "application_link": ""
+  },
+  {
+    "name": "Priyo",
+    "description": "",
+    "website": "",
+    "application_link": ""
+  },
+  {
+    "name": "Kite Games Studio",
+    "description": "",
+    "website": "",
+    "application_link": ""
+  },
+  {
+    "name": "Orbitax",
+    "description": "",
+    "website": "",
+    "application_link": ""
+  },
+  {
+    "name": "Optimizely",
+    "description": "",
+    "website": "",
+    "application_link": ""
+  },
+  {
+    "name": "Relisource",
+    "description": "",
+    "website": "",
+    "application_link": ""
+  },
+  {
+    "name": "RoBenDevs",
+    "description": "",
+    "website": "",
+    "application_link": ""
+  },
+  {
+    "name": "Shanghai BDCOM",
+    "description": "",
+    "website": "",
+    "application_link": ""
+  },
+  {
+    "name": "REVE Systems",
+    "description": "",
+    "website": "",
+    "application_link": ""
+  },
+  {
+    "name": "Spectrum",
+    "description": "",
+    "website": "",
+    "application_link": ""
+  },
+  {
+    "name": "SRBD",
+    "description": "",
+    "website": "",
+    "application_link": ""
+  },
+  {
+    "name": "Synesis IT",
+    "description": "",
+    "website": "",
+    "application_link": ""
+  },
+  {
+    "name": "Therap BD",
+    "description": "",
+    "website": "",
+    "application_link": ""
+  },
+  {
+    "name": "WSD",
+    "description": "",
+    "website": "",
+    "application_link": ""
+  },
+  {
+    "name": "WellDev",
+    "description": "",
+    "website": "",
+    "application_link": ""
+  }
+] 

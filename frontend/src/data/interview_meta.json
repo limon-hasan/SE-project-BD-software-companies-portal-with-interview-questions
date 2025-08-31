@@ -1,0 +1,245 @@
+{
+  "Companies": [
+    "For fresher roles almost all the companies ask about projects and thesis done in university. So, it is a good idea to take a refresher on them before going to the interview. Hackathon experience and other hobby projects are also encouraged."
+  ],
+  "General Guidelines": [
+    "For fresher roles almost all the companies ask about projects and thesis done in university. So, it is a good idea to take a refresher on them before going to the interview. Hackathon experience and other hobby projects are also encouraged."
+  ],
+  "Before Application": [
+    "Step 0: Introductory Tasks ​",
+    "Step 3: Background check ​",
+    "Step 5: Preparing for the interviews ​",
+    "Step 6: Final stage ​",
+    "In this post, I’ll share a step-by-step guide to help you navigate the process, from building a standout resume to preparing for interviews and handling job offers. Whether you’re a fresh graduate or someone looking to refine their approach, these tips are designed to make your journey smoother and more successful.",
+    "Include details such as your achievements, education, experience, and other key information. The purpose of this website is to serve as an extension of your resume. Recruiters interested in knowing more about you might check out your website or GitHub.",
+    "Your resume shouldn’t be too long or too short—ideally, stick to one page. Avoid adding unnecessary details, like images.",
+    "Ask seniors or professionals (ideally someone from the company you’re applying to) to validate your resume. Remember, a great resume takes time to refine—it’s a process that evolves over a year or more.",
+    "The interview process often consists of several stages including automated psychometric test, coding round, technical test and live interviews which also has coding, technical and behavioral round.",
+    "To prepare for coding rounds practice in leetcode. Try to solve all of the leetcode 150 problems even if they seem easy. Also see how others solve those problems. To prepare for technical round revise topics like OOP, DSA, Database, OS, Networking. System design related topic are a bit rare for freshers.",
+    "Again, contact your seniors to learn more about the stages and question patterns.",
+    "I actually compiled questions that we faced during our placement for juniors. Later others started contributing too. I will highly recommend to go through the site. It is my final gift to you. You can find the site link at https://github.com/TamimEhsan/interview-questions-bangladesh.",
+    "If you’re fortunate enough to secure multiple job offers, consider the following factors to make an informed decision: Salary and benefits, Location and commute. For example, I personally prefer a lower-paying job with an easier commute over a higher-paying one with a stressful commute."
+  ],
+  "AppifyLab": [
+    "Interview Stages ​",
+    "Initial Online Contest ​",
+    "Platform: vJudge",
+    "Details: Participated in an online coding contest.",
+    "Selection: Out of numerous participants, around 40-50 were selected for the onsite contest.",
+    "Onsite Contest ​",
+    "Selection: Out of numerous participants, around 10-15 were selected for the final interview.",
+    "Details: The onsite contest was held in Sylhet.",
+    "Final Interview ​",
+    "The final interview is mainly a discussion about the company and the candidate's interest in joining. Employment terms like probation period, internship time, possibility of permanent position, and location were discussed.",
+    "First Round Questions ​",
+    "The given questions are the summarized version of the original questions. The original questions are available in the Online Round Problem Set.",
+    "Second Round Questions ​",
+    "The given questions are the summarized version of the original questions. The original questions are available in the Final Round Problem Set."
+  ],
+  "Bkash": [
+    "Interview Stages: ​",
+    "Bkash interviews generally involve 3–4 rounds: Stage Format Description"
+  ],
+  "Chaldal": [
+    "Interview Stages ​",
+    "First round Interview Questions ​",
+    "Chaldal interview process has 3 stage",
+    "Grid cells are connected horizontally/vertically (not diagonally). The grid is completely surrounded by water, and there is exactly one island (i.e., one or more connected land cells).",
+    "The island doesn't have \"lakes\", meaning the water inside isn't connected to the water around the island. One cell is a square with side length 1. The grid is rectangular, width and height don't exceed 100. Determine the perimeter of the island."
+  ],
+  "Bevy Commerce": [
+    "Interview Stages ​",
+    "Coding Round Questions ​",
+    "The interview process was based on two stages"
+  ],
+  "Brain Station 23": [
+    "Star Coder Interview Stages ​",
+    "Online MCQ Round ​",
+    "Onsite Coding Round ​",
+    "Day long Assessment Test ​",
+    "Behavioural Test ​",
+    "Aptitude Test ​",
+    "Individual Interview ​",
+    "Technical Round ​",
+    "Star Coder is an annual recruitment test for BS23. The program has 5 stages",
+    "Online MCQ Exam: Everyone who applies for the program will be given the opportunity to sit for this round. Questions are asked from computer science subjects. The topics generally cover programming, data-algo, OOP, databases, etc. Those who do well in this exam are shortlisted for the next step.",
+    "Onsite Exam: This round is onsite, a 2-3 hour written exam. Candidates have to take an online exam on problem solving, data algorithms, databases, etc. No internet access is given for this stage.",
+    "Day long Assessment Test: This is an interesting round. There are various events throughout the day. Teamwork, idea generation, fun, etc. It is a lot like a hackathon. Presentations have to be given. It takes place in their office from morning to evening. Candidates are given a scenario and some questions. They have to come up with a solution and present it. The submissions are ERD, wireframe, SQL etc.",
+    "Technical Interview: Candidates may be interviewed about the project they developed in Step 3. They may also be asked about problem solving and computer science fundamentals",
+    "Client Facing Interview: Sometimes candidates are tasked to conduct a real client facing interview. This stage is not applicable for everyone and only given occasionally.",
+    "The problems presented in this round are fairly basic. The format is multiple choice.",
+    "In the context of the Software Development Life Cycle (SDLC), which model emphasizes the continuous iteration of the development and testing phases throughout the project, accommodating changes in requirements even late in the development process?",
+    "We need to find the factors of 72 to determine how many people would have flipped bulb number 72. The factors of 72 are 1, 2, 3, 4, 6, 8, 9, 12, 18, 24, 36, 72. Therefore, 12 people would have flipped bulb number 72.",
+    "This round is a mixture of coding problems and MCQs. The topics are the same as the online MCQ round. On average, the number of coding problems given are 9-10 and the number of MCQs are around 30.",
+    "Given a number n, print its factorial i.e. n!",
+    "The behavioural tests are quite similar to the ones standardized by Amazon. The situational judgment test (SJT) or behavioral assessment stage evaluates a candidate's decision-making and problem-solving skills in workplace scenarios. Candidates are presented with a situation and two possible responses, selecting their preference on a scale from strongly favoring one option to neutral or favoring the other. This helps employers assess traits like leadership, teamwork, and customer focus. Companies like Amazon use this method to identify candidates who align with their core values and work culture.",
+    "Aptitude tests assess a candidate’s problem-solving ability, logical reasoning, numerical skills, and verbal comprehension. These tests are commonly used in hiring to evaluate a candidate's ability to think critically and process information efficiently. They are often timed and include questions on math, logic, patterns, and language. These tests are written or MCQ type questions. On average there are 30 questions like these.",
+    "Which actor do you like the most? why?",
+    "Each candidate faces yet another interview at the end of the day. This stage is language independent and focues on general software development knowledges. Topics might include git, SDLC, data structures, algorithm etc.",
+    "This round is not present in the Star Coder program every year. But in some years, candidates are asked to submit a project. A scenario is given to the candidates through email. The project is chosen based on the candidates preferences presented in the previous rounds. The project is to be submitted within a week. The projects given are pretty basic, but the candidates are expected to follow best practices.",
+    "This round is also language and stack specific. The language is chosen by the candidate during the day long assessment. Some sample questions from Java are given.",
+    "Some questions might be asked from the projects added in resume. If github repository links are added then interviewer might check those out too.",
+    "Suppose you have to build a e-commerce site where you have multiple product listing. In the home page the products have some small information listed. When you click on any single product then full details of the product is shown. How would you design the database and system for this?"
+  ],
+  "DSI": [
+    "Interview Stages ​",
+    "DSI takes a on campus written test first. The questions contain some coding problem, Database, writting sql, OOP etc The second stage is face to face interview"
+  ],
+  "Envobyte": [
+    "Selection Process: ​"
+  ],
+  "Enosis Solutions": [
+    "Interview Stages ​"
+  ],
+  "Exabyting": [
+    "Interview Stages ​",
+    "Phone Interview ​",
+    "First Round Questions ​",
+    "Second Round Questions ​",
+    "For the Trainee Software Engineer Position, Exabyting follows a 4-stage interview process. They often give job advertisements on LinkedIn. We have to apply using the Google form mentioned in the post. In the Google form, some questionnaires about yourself and some basic technical questions are given sometimes. I applied several times through the Google form but never got a call. Last time, I applied through a referral from an employee of theirs and got shortlisted. The interview process is as follows:",
+    "Read more from [Pure Functions in JavaScript | Medium]https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976)",
+    "Cookie-based authentication is a method where a server issues a session cookie upon successful login. This cookie, stored in the user's browser, is sent with every subsequent request, allowing the server to identify the user without requiring reauthentication. The server typically stores session details in a database or in-memory store (e.g., Redis). Cookies can have attributes like HttpOnly (prevents JavaScript access), Secure (only sent over HTTPS), and SameSite (prevents CSRF attacks)."
+  ],
+  "Fringecore": [
+    "Fringecore is a team of engineers and designers, who build software, hack hardware and apply design thinking in-order to tame the chaos in business processes.",
+    "Your task is to create a recursive partitioner. Upon opening the project, users should be greeted with a random background color and two buttons labeled \"v\" and \"h.\" The \"v\" button allows the screen to be split vertically, while the \"h\" button splits it horizontally. When a split occurs, one partition should retain its original color, and the newly created partition should adopt a new random color. Each partition should remain interactive and allow further splits. Additionally, if multiple partitions exist, users should have the option to remove any partition. All partitions should be resizable by clicking and dragging their edges.",
+    "Modify the function processTask() in challenge.mjs in such way that:"
+  ],
+  "Inverse AI": [
+    "Interview Stages ​",
+    "There are 3 stages for the interview"
+  ],
+  "IQVIA": [
+    "Interview Stages ​",
+    "The preliminary test of IQVIA consists of 3 stage",
+    "Then if selected there will be a technical interview."
+  ],
+  "Priyo": [
+    "Interview Stages ​",
+    "Coding Round Questions ​",
+    "Technical Round Questions ​",
+    "Suppose you want to update value of a field in a database. Generally, a read operation is done to fetch the value. Based on the retrieved value some logic is applies and the result is updated in the field. Example, subtract from balance if the balance is more than some threshold. Another client in the meantime can update the field too thus resulting unexpected behaviour. How can this be solved?"
+  ],
+  "Kite Games Studio": [
+    "Interview Stages ​",
+    "Technical Round Questions ​",
+    "Online Round Questions ​",
+    "Online Contest: Candidates participate in an online programming contest that typically consists of 5-6 problems to be solved within 3-4 hours. The contest may be hosted on platforms like Toph, Hackerrank, or other online judges. Candidates are shortlisted for the next round based on their ranking in this contest.",
+    "Technical Round: This round primarily focuses on coding problems and some basic Java concepts. The interviewers assess the candidate's problem-solving approach and how they think through the problems.",
+    "Interviewer: Here's a scenario: you need to create a class for database connections, and as every developer of your team needs to use the same database connection, you should only allow one instance of this class. How would you implement this in Java?Candidate: I would include a static variable within the class, initially set to null. I'd also create a static method called \"connection.\" This method would first check if the static variable is null. If it is, it would create a new object, assign it to the variable, and then return it. If the variable is not null, it would simply return the existing object.Interviewer: But if someone creates an object of this class, wouldn't they get a different object?Candidate: To prevent that, I would make the constructor private.Interviewer: Is this approach feasible? Would you need to do anything else?Candidate: Yes, it's feasible, and no further changes are necessary.Interviewer: The process you described has a specific name in design patterns. Do you recall what it's called?Candidate: Sorry, I don't know the name.Interviewer: It's called the Singleton pattern.",
+    "The given single threaded implementation of the singleton pattern though widely popular, is not thread-safe. If a multithreaded application were to get the connection, there is a chance that the connection is initialized multiple times. Ask the interviewer to make sure if they want it to be thread-safe. You can check this wikipedia section if you want to learn more.",
+    "You're at a buffet with various food items. Each food item has a deliciousness factor and nutrient values. You need to maximize the total deliciousness of the foods you eat. Additionally, for health reasons, each nutrient value must occur in an odd number of food items. 2024",
+    "You need to write a program to simulate a Linux terminal on an old computer. You'll be given commands like \"mkdir\", \"ls\", \"rm\", \"pwd\", and \"cd\", and you need to simulate their behavior, printing the appropriate output or error messages. 2024",
+    "You are given a list L of N unique strings and an initially empty list P. You need to process Q queries of the following types:",
+    "Given a tree with N nodes. You will need to chose an optimal start node s such that the round trip distance from s to some given target nodes is minimized. Jr SWE 2025"
+  ],
+  "Orbitax": [
+    "Coding Round Questions ​"
+  ],
+  "Optimizely": [
+    "Interview Stages ​",
+    "On-Site Interview Questions ​",
+    "For the Software Engineer Intern position, the interview process consists of the following stages:",
+    "Phone Screening: The first stage of the interview process is a phone screening with a recruiter. The recruiter will ask you about your background, experience, and interest in the company. This is also an opportunity for you to ask questions about the role and the company.",
+    "On-Site Interview: If you successfully complete the take-home assignment, you will be invited for an on-site interview. This will be a system design interview where you will be asked to design and code a system in 1 hour. Then you will be asked about your code, database design, sql queries, basic networking and OS, OOP concepts, design patterns and project related knowledge. There may be some in depth questions about the technologies in the projects that you have worked on. The whole interview may take around 2.5 hours. If you pass this stage, there may be a final interview with the hiring manager or a behavioral interview.",
+    "Imagine you're working at a T-shirt factory and you manage orders by packing a bulk amount of shirts into a certain number of bags. For every order, you have a specification of how many bags you have to fill and a fixed number of shirts to fill them with. The requirement is to distribute the shirts in the bags as evenly as possible.",
+    "For example, if there are 100 shirts and 10 bags, then each bag will get 10 shirts. However, sometimes the shirt factory will have production errors, and it might produce the wrong number of shirts. It's not going to be 200 shirts instead of 100, but there will be some minor deviation from the original number."
+  ],
+  "RoBenDevs": [
+    "Interview Stages ​",
+    "Coding Round Questions ​",
+    "RoBenDevs has a 3 stage interview process for Software Engineer, Intern role.",
+    "Answer varies from person to person. The interviewers are looking for a high level design of the system and are interested in the reasoning behind the design."
+  ],
+  "Shanghai BDCOM": [
+    "Interview Stages ​",
+    "Discuss what led to the need for process scheduling in modern operating systems. Explain how multitasking and limited CPU resources made it necessary to manage processes efficiently, and describe the objectives of a process scheduler (e.g., fairness, responsiveness, throughput, CPU utilization).",
+    "When a high-level program file (e.g., C or C++) is turned into an executable file, several steps occur in sequence. Explain each stage and how they work together to create a runnable program.",
+    "List and briefly describe the major parts of a CPU (Central Processing Unit):",
+    "You are given an arithmetic expression in either infix or postfix notation. Write a program to convert it to prefix notation, maintaining correct operator precedence and associativity.",
+    "You are given 1000 unsorted numbers and need to find the 10 smallest elements efficiently. Which sorting or selection algorithm would be most optimal to solve this problem and why?"
+  ],
+  "REVE Systems": [
+    "Interview Stages ​",
+    "Technical Round I Questions ​",
+    "Technical Round II Questions ​",
+    "CTO Round Questions ​",
+    "In this article, the recruitment process for the R&D department for the DEV roles (Junior Software Engineer) is presented. They perform campus recruitment.",
+    "Online Screening Test: This round is conducted via Zoom. All the participants are required to keep their microphones and cameras on during the MCQ exam via Google form. Questions were given from the following areas:",
+    "Technical Round I: Two interviewers conducted this round via Skype. During the whole interview, the camera and microphone have to be on. At the beginning of the interview, a Google Doc might be shared for writing the code or any answers. Candidates are not allowed to use a pen or paper. Only the shared doc has to be used.",
+    "Technical Round II: This round is also conducted via Skype, and two interviewers (project managers) might be there. This is a bit more technical than round 1. Topics may include - Java socket programming, computer networking, focusing on TCP and UDP protocols, software engineering and design patterns, SOLID principles, string matching algorithms (Naive, KMP).",
+    "CTO Round: This will be an onsite round where the CTO and any other senior engineer. Candidates might be asked to solve problems using pen and paper.",
+    "Actually they asked all the questions from the previous rounds where I made mistakes."
+  ],
+  "SRBD": [
+    "Interview Stages ​",
+    "Coding Round Questions ​",
+    "Technical Round Questions ​",
+    "SRBD organizes a coding contest every year. The prize money is very handsome. Apart from that, if you do advance to round 2 or 3 means you might get a call for interview skipping the initial screening",
+    "SRBD takes interview in two round.",
+    "Coding round: Round 1 is coding round. The problems are typically from leetcode. You can only proceed to round 2 if you can solve round 1 correctly.",
+    "Technical round: Round 2 is a technical round. You might get asked about basic theories or solve some simple problems",
+    "[Answer 2] Optimize approach : An integer have 32 bit. We have 26 small letter character. We just need to allocate each bit for position of a character. If an element is present set the concurrent bit and finally count the number of set bit. (Comment from Tamim: Before trying this approach communicate with the interviewer to make sure about the characters present in the string ie only a-z is present and nothing else)"
+  ],
+  "Synesis IT": [
+    "Behavioral Questions ​",
+    "Synesis takes a on campus written test first. The questions contain some coding problem, Database, writting sql, OOP etc The second stage is face to face interview"
+  ],
+  "Therap BD": [
+    "Interview Stages ​",
+    "Interview Questions ​",
+    "Therap BD organizes a Java fest every year. The prize money is very handsome. Apart from that, if you advance to final that means you get a direct ticket to interview skipping the initial screening",
+    "The selection process depends on the role, but generally has 3 to 4 stages,"
+  ],
+  "Software Engineer": [
+    "Interview Stages ​",
+    "The selection process has 3 stages,",
+    "Solve the problem using Object Oriented Programming"
+  ],
+  "Database Engineer": [
+    "Interview Stages ​",
+    "The selection process has 4 stages,",
+    "A schema has entities like CUSTOMERS, ORDERS, ORDER_ITEMS, PRODUCTS, PRODUCT_DETAILS, WAREHOUSES, INVENTORIES. Data fields of entities and cardinality relationships were given in the figure. Questions included from <>"
+  ],
+  "Associate System Adminstrator": [
+    "Interview Stages ​",
+    "1st technical round ​",
+    "2nd technical round ​",
+    "The selection process has multiple stages,",
+    "Provide an example where multithreading is a better approach than multiprocessing.",
+    "What is the Linux file system hierarchy? Describe the purpose of the following directories:",
+    "How can you monitor a process? Suppose you have a program and you need to check its status and restart it if it crashes. How can you do that?",
+    "This interview was taken in therap office. Basic questions like what do you understand about system operations and why do want to join were asked. Some hands on tasks on ubuntu command line were also given",
+    "This part was taken online. Both Bangladesh and USA team were presents. This round was also similar like the previous round."
+  ],
+  "WSD": [
+    "Interview Stages ​",
+    "First Round Questions ​",
+    "Second Round Questions ​",
+    "WSD most probably works with java like Therap BD. So their interview questions generally contains topics from Java, Spring Boot and OOP.",
+    "At first apply through their website. Apply to the positions located in bangladesh. They take their interview in two phases."
+  ],
+  "WellDev": [
+    "Interview Stages ​",
+    "MCQ Round ​",
+    "First Round Questions ​",
+    "Second Round Questions ​",
+    "This round consisted of a multiple-choice questionnaire covering these topics. The test required me to share my screen with Quillgo and keep my camera on. It covers wide range of topics like JavaScript fundamentals, OOP, DBMS, SWE principles, Networking, Rest API knowledge, Analytical reasoning, DSA (time complexity, sorting, binary trees, MST, greedy algorithms).",
+    "Write a code to create a directory and a text file inside it with “Hello World” written."
+  ],
+  "Next pageBefore Application": [
+    "Step 0: Introductory Tasks ​",
+    "Step 3: Background check ​",
+    "Step 5: Preparing for the interviews ​",
+    "Step 6: Final stage ​",
+    "In this post, I’ll share a step-by-step guide to help you navigate the process, from building a standout resume to preparing for interviews and handling job offers. Whether you’re a fresh graduate or someone looking to refine their approach, these tips are designed to make your journey smoother and more successful.",
+    "Include details such as your achievements, education, experience, and other key information. The purpose of this website is to serve as an extension of your resume. Recruiters interested in knowing more about you might check out your website or GitHub.",
+    "Your resume shouldn’t be too long or too short—ideally, stick to one page. Avoid adding unnecessary details, like images.",
+    "Ask seniors or professionals (ideally someone from the company you’re applying to) to validate your resume. Remember, a great resume takes time to refine—it’s a process that evolves over a year or more.",
+    "The interview process often consists of several stages including automated psychometric test, coding round, technical test and live interviews which also has coding, technical and behavioral round.",
+    "To prepare for coding rounds practice in leetcode. Try to solve all of the leetcode 150 problems even if they seem easy. Also see how others solve those problems. To prepare for technical round revise topics like OOP, DSA, Database, OS, Networking. System design related topic are a bit rare for freshers.",
+    "Again, contact your seniors to learn more about the stages and question patterns.",
+    "I actually compiled questions that we faced during our placement for juniors. Later others started contributing too. I will highly recommend to go through the site. It is my final gift to you. You can find the site link at https://github.com/TamimEhsan/interview-questions-bangladesh.",
+    "If you’re fortunate enough to secure multiple job offers, consider the following factors to make an informed decision: Salary and benefits, Location and commute. For example, I personally prefer a lower-paying job with an easier commute over a higher-paying one with a stressful commute."
+  ]
+}

@@ -1,0 +1,24 @@
+[
+  {
+    "section": "Frontend Questions",
+    "questions": [
+      {"text": "Build a recursive partitioner", "link": "https://github.com/fringecore/fringecore-frontend-challenge-recursive-partitioning"},
+      {"text": "Build a GPU-accelerated color picker", "link": "https://github.com/fringecore/fringecore-frontend-challenge-colorpicker-pentagon"},
+      {"text": "Build a block graph", "link": "https://github.com/fringecore/fringecore-frontend-challenge-block-graph"},
+      {"text": "Build a interactive bouncing ball", "link": "https://github.com/fringecore/fringecore-frontend-challenge-bouncing-ball"},
+      {"text": "Build an interactive polygon drawing tool", "link": "https://github.com/fringecore/fringecore-frontend-challenge-draw-polygon"},
+      {"text": "Build an interactive art-board", "link": "https://github.com/fringecore/fringecore-frontend-challenge-art-board"}
+    ]
+  },
+  {
+    "section": "Backend Questions",
+    "questions": [
+      {"text": "Stream Transform", "link": "https://github.com/Abir66/fringecore-backend-challenges/tree/main/stream-transform"},
+      {"text": "Custom Serializer", "link": "https://github.com/Abir66/fringecore-backend-challenges/tree/main/custom-serializer"},
+      {"text": "Man in the middle", "link": "https://github.com/Abir66/fringecore-backend-challenges/tree/main/man-in-the-middle"},
+      {"text": "Color Picker Pentagon", "link": "https://github.com/Abir66/fringecore-backend-challenges/tree/main/colorpicker-pentagon"},
+      {"text": "Event Syncer", "link": "https://github.com/Abir66/fringecore-backend-challenges/tree/main/event-syncer"},
+      {"text": "Priority Task Scheduler", "link": "https://github.com/Abir66/fringecore-backend-challenges/tree/main/priority-task-scheduler"}
+    ]
+  }
+]

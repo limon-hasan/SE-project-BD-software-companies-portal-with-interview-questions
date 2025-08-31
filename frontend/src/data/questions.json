@@ -1,0 +1,2222 @@
+[
+  {
+    "company_name": "Before Application",
+    "question": "Create a GitHub account if you don’t already have one (hopefully, everyone here does).",
+    "type": "problem"
+  },
+  {
+    "company_name": "Before Application",
+    "question": "Write a README for each repository. Most recruiters won’t run your code, so it’s better to include some kind of demo for your projects. This could be: Live websites, YouTube videos, Figma mockups, Screenshots",
+    "type": "problem"
+  },
+  {
+    "company_name": "Before Application",
+    "question": "Build a simple personal website if you have time.",
+    "type": "problem"
+  },
+  {
+    "company_name": "Before Application",
+    "question": "Create a LinkedIn account if you haven’t already.",
+    "type": "problem"
+  },
+  {
+    "company_name": "AppifyLab",
+    "question": "A circular string of length N×K representing N fragments of length K",
+    "type": "problem"
+  },
+  {
+    "company_name": "AppifyLab",
+    "question": "Given multiple test cases, each containing a 3-letter string (uppercase/lowercase letters), you have to check whether the string equals \"YES\", case-insensitively. Output \"YES\" if it matches, else \"NO\".",
+    "type": "problem"
+  },
+  {
+    "company_name": "AppifyLab",
+    "question": "Given",
+    "type": "problem"
+  },
+  {
+    "company_name": "AppifyLab",
+    "question": "For each game, determine the earliest time when all students who like that game become connected (either directly or indirectly). Output -1 if they never get connected.",
+    "type": "problem"
+  },
+  {
+    "company_name": "AppifyLab",
+    "question": "Given:",
+    "type": "problem"
+  },
+  {
+    "company_name": "AppifyLab",
+    "question": "Calculate the total score based on a formula involving penalties and number of attempts. If a question is unsolved, its score is 0.",
+    "type": "problem"
+  },
+  {
+    "company_name": "AppifyLab",
+    "question": "Given a list of unique 9-digit phone numbers. For each phone number, find the shortest digit substring that uniquely identifies it (i.e., no other number contains it as a substring).",
+    "type": "problem"
+  },
+  {
+    "company_name": "AppifyLab",
+    "question": "Determine if the circular string can be split into a sequence of N valid fragments (from the candidate list) in some rotation. If possible, output any such valid sequence.",
+    "type": "problem"
+  },
+  {
+    "company_name": "AppifyLab",
+    "question": "Given multiple test cases, each with two numbers: total artifacts n and a position k. Artifacts are arranged in a special sequence: first all odd-numbered ones, then multiples of odd numbers (2×odd, 3×odd, etc.) in order, skipping duplicates. Find which artifact appears at position k.",
+    "type": "problem"
+  },
+  {
+    "company_name": "AppifyLab",
+    "question": "Given grid dimensions n × m. Determine if it is possible to assign pigment values to rows and columns such that every cell in the grid (combining row and column pigment modulo nm) has a unique value. If possible, output the row and column pigments.",
+    "type": "problem"
+  },
+  {
+    "company_name": "AppifyLab",
+    "question": "Given a sequence of integers, convert each number to binary using parity (even → 1, odd → 0), concatenate to form a binary string, and print it with leading zeros removed.",
+    "type": "problem"
+  },
+  {
+    "company_name": "AppifyLab",
+    "question": "Given dimensions of two rectangles, one inside another, where the outer rectangle is (A×B) and inner rectangle is (C×D), with C ≤ A and D ≤ B.",
+    "type": "problem"
+  },
+  {
+    "company_name": "AppifyLab",
+    "question": "Given N baskets arranged in a circle with given apples in each and a number K indicating how many apples one will eat.",
+    "type": "problem"
+  },
+  {
+    "company_name": "AppifyLab",
+    "question": "Simulate the person moving right and eating apples if present, and output the number of apples left in each basket after exactly K apples are eaten.",
+    "type": "problem"
+  },
+  {
+    "company_name": "AppifyLab",
+    "question": "Given a string s of length n. Pick an integer k (1 ≤ k ≤ n) and perform a transformation: reverse each substring of length k sliding through the string, and find the lexicographically smallest resulting string. Output that string and the smallest such k.",
+    "type": "problem"
+  },
+  {
+    "company_name": "AppifyLab",
+    "question": "Given a simple directed graph with N vertices and M edges. Count how many vertices can be starting points for infinite walks (i.e., they lie on or can reach a cycle).",
+    "type": "problem"
+  },
+  {
+    "company_name": "AppifyLab",
+    "question": "Given a book with N pages (numbered 1 to N) and a secret digit (0–9), and you randomly pick a page. Compute the probability that the page number you picked contains the secret digit, expressed as an irreducible fraction P/Q.",
+    "type": "problem"
+  },
+  {
+    "company_name": "AppifyLab",
+    "question": "Given Grid size n×m and manhattan distances from a hidden cell (a, b) to (1, 1) and (1, m). Find the coordinates (a, b) of the hidden cell using the given distances",
+    "type": "problem"
+  },
+  {
+    "company_name": "Bkash",
+    "question": "Given the head of a linked list, remove all duplicate elements so that each value appears only once. Return the modified head of the linked list.",
+    "type": "problem"
+  },
+  {
+    "company_name": "Bkash",
+    "question": "Given a string containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid.",
+    "type": "problem"
+  },
+  {
+    "company_name": "Bkash",
+    "question": "Given an array of integers nums and an integer target, return the indices of the two numbers such that they add up to target.",
+    "type": "problem"
+  },
+  {
+    "company_name": "Bkash",
+    "question": "Given the head of a singly linked list, reverse the list, and return the reversed list.",
+    "type": "problem"
+  },
+  {
+    "company_name": "Bkash",
+    "question": "What is concurrency control in databases? Why is it important?",
+    "type": "problem"
+  },
+  {
+    "company_name": "Bkash",
+    "question": "What is function overriding in Object-Oriented Programming? How is it different from overloading?",
+    "type": "problem"
+  },
+  {
+    "company_name": "Bkash",
+    "question": "What is inheritance in Object-Oriented Programming?",
+    "type": "problem"
+  },
+  {
+    "company_name": "Bkash",
+    "question": "What is a deadlock in computing? How can it be prevented or resolved?",
+    "type": "problem"
+  },
+  {
+    "company_name": "Bkash",
+    "question": "What is database normalization? What are its benefits and common normal forms?",
+    "type": "problem"
+  },
+  {
+    "company_name": "Bkash",
+    "question": "How can you generate random numbers in your preferred programming language?",
+    "type": "problem"
+  },
+  {
+    "company_name": "Bkash",
+    "question": "How can you compare the contents of two text files to determine if they are identical?",
+    "type": "problem"
+  },
+  {
+    "company_name": "Chaldal",
+    "question": "Return a number from the container with equal probability in O(1)",
+    "type": "problem"
+  },
+  {
+    "company_name": "Chaldal",
+    "question": "Given a number in roman format. Convert it to arabic numeral.",
+    "type": "problem"
+  },
+  {
+    "company_name": "Chaldal",
+    "question": "Given a string of characters. Reverse the string without using any library function.",
+    "type": "problem"
+  },
+  {
+    "company_name": "Chaldal",
+    "question": "Given a string of characters. Check if the given string is a palindrome.",
+    "type": "problem"
+  },
+  {
+    "company_name": "Chaldal",
+    "question": "Given an positive integer n. Find the sum of even fibonacchi number upto nth term.",
+    "type": "problem"
+  },
+  {
+    "company_name": "Chaldal",
+    "question": "Given a string of characters [0-9]. Convert it to integer.",
+    "type": "problem"
+  },
+  {
+    "company_name": "Chaldal",
+    "question": "Given an array of integers. Generate all possible permutation of the given array.",
+    "type": "problem"
+  },
+  {
+    "company_name": "Chaldal",
+    "question": "Given an array of integers. Generate all possible subset of the given array.",
+    "type": "problem"
+  },
+  {
+    "company_name": "Chaldal",
+    "question": "Given a regex expression and a string. Check if the regex expression matches with the string.",
+    "type": "problem"
+  },
+  {
+    "company_name": "Chaldal",
+    "question": "Each student is assigned to an assignment at a particular location at a specific time. Are there any inconsistencies in the assignments ? Find at least one of them by looking into the input. Then write a code to print all inconsistencies in the assignments.",
+    "type": "problem"
+  },
+  {
+    "company_name": "Chaldal",
+    "question": "Implement Game of Life",
+    "type": "problem"
+  },
+  {
+    "company_name": "Chaldal",
+    "question": "Implement a square matrix of size 20 and set up the initial five (given) living squares. Then run 10 iterations on it, then print the final matrix. 0,0 should be the top left of the matrix, where the first is the row and the second is the column.",
+    "type": "problem"
+  },
+  {
+    "company_name": "Chaldal",
+    "question": "Find digits from a string( Leading zeroes doesn't get counted)",
+    "type": "problem"
+  },
+  {
+    "company_name": "Chaldal",
+    "question": "Given a string s containing lowercase lattin letters and another string p containing lowercase lattin letters and * and ?. * means any substring possibly empty. ? means any character but single.",
+    "type": "problem"
+  },
+  {
+    "company_name": "Chaldal",
+    "question": "Print yes or no if both strings matches. [RegEx Matching]",
+    "type": "problem"
+  },
+  {
+    "company_name": "Chaldal",
+    "question": "Write a function which converts decimal number to hexadecimal",
+    "type": "problem"
+  },
+  {
+    "company_name": "Chaldal",
+    "question": "Write a function which finds all the subset of a given set.",
+    "type": "problem"
+  },
+  {
+    "company_name": "Chaldal",
+    "question": "Similar to the question for finding all subset of an array",
+    "type": "problem"
+  },
+  {
+    "company_name": "Chaldal",
+    "question": "Given a set of orderings of letters, determine their topological sorting order. The orderings are provided as strings. For example, given the input [\"A>B\", \"B>C\", \"C>D\"], the expected output is \"ABCD\".",
+    "type": "problem"
+  },
+  {
+    "company_name": "Chaldal",
+    "question": "Given two numbers represented as arrays of characters in decimal format, add them and return the result in the same format. For example, Input: ['1', '2', '3'] and ['4', '5', '6'] Output: Output: ['5', '7', '9']",
+    "type": "problem"
+  },
+  {
+    "company_name": "Chaldal",
+    "question": "Given the root of a binary tree, return its maximum depth.",
+    "type": "problem"
+  },
+  {
+    "company_name": "Chaldal",
+    "question": "You are to create a data structure that will support the following operations with the mentioned time complexity",
+    "type": "problem"
+  },
+  {
+    "company_name": "Chaldal",
+    "question": "Given an integer num, repeatedly add all its digits until the result has only one digit, and return it. (It is called the digital root of the number)",
+    "type": "problem"
+  },
+  {
+    "company_name": "Chaldal",
+    "question": "Given an encoded string, return its decoded string.",
+    "type": "problem"
+  },
+  {
+    "company_name": "Chaldal",
+    "question": "The encoding rule is: k[encoded_string], where the encoded_string inside the square brackets is being repeated exactly k times.",
+    "type": "problem"
+  },
+  {
+    "company_name": "Chaldal",
+    "question": "You are given row x col grid representing a map where grid[i][j] = 1 represents land and grid[i][j] = 0 represents water.",
+    "type": "problem"
+  },
+  {
+    "company_name": "Bevy Commerce",
+    "question": "How does error handling differ in synchronous and asynchronous code in Node.js, and what are the best practices for error handling in asynchronous code?",
+    "type": "problem"
+  },
+  {
+    "company_name": "Bevy Commerce",
+    "question": "Write a function that takes an array and a number as an argument. if the number is greater than 0, you must pop the number of elements from the array. if the number is not provided then pop once.",
+    "type": "problem"
+  },
+  {
+    "company_name": "Bevy Commerce",
+    "question": "What is event driven programming? How event driven programming works in JavaScript?",
+    "type": "problem"
+  },
+  {
+    "company_name": "Bevy Commerce",
+    "question": "Given an array of integers, find the second max of the array",
+    "type": "problem"
+  },
+  {
+    "company_name": "Bevy Commerce",
+    "question": "Given an array of integers and a sorting criteria[asc/desc], sort the array based on the sorting criteria in either ascending or descending order",
+    "type": "problem"
+  },
+  {
+    "company_name": "Brain Station 23",
+    "question": "Output Tracing",
+    "type": "problem"
+  },
+  {
+    "company_name": "Brain Station 23",
+    "question": "In RDBMS, a unique constraint prevents null values in a column.",
+    "type": "problem"
+  },
+  {
+    "company_name": "Brain Station 23",
+    "question": "Write unit tests for the core logics",
+    "type": "problem"
+  },
+  {
+    "company_name": "Brain Station 23",
+    "question": "Sanite user input to prevent XSS attack",
+    "type": "problem"
+  },
+  {
+    "company_name": "Brain Station 23",
+    "question": "Implement CSRF protection",
+    "type": "problem"
+  },
+  {
+    "company_name": "Brain Station 23",
+    "question": "Mr. Joy is planning to build a web browser. Now he is analyzing requirements for the navigation system of his web browser, which will preserve the browsing history. What is the appropriate data structure to use for the navigation system?",
+    "type": "problem"
+  },
+  {
+    "company_name": "Brain Station 23",
+    "question": "In a bag , there is black and red balls. The ratio of black to red is 3:7 , if we add 20 more black balls to the bag then the ratio becomes 1:2. How many red balls are there?",
+    "type": "problem"
+  },
+  {
+    "company_name": "Brain Station 23",
+    "question": "which of the following is false about RDBMS (Relational Database Management System)?",
+    "type": "problem"
+  },
+  {
+    "company_name": "Brain Station 23",
+    "question": "The false statement about RDBMS is: In RDBMS, a unique constraint prevents null values in a column. A unique constraint ensures that all values in a column are unique, but it does not prevent null values.",
+    "type": "problem"
+  },
+  {
+    "company_name": "Brain Station 23",
+    "question": "A train leaves station A at 7 AM with the speed of 60 kmph, and another train leaves the A station at 8 AM with the speed of 90 kmph..when will the second train catch the first train?",
+    "type": "problem"
+  },
+  {
+    "company_name": "Brain Station 23",
+    "question": "What will be the output of the following code?",
+    "type": "problem"
+  },
+  {
+    "company_name": "Brain Station 23",
+    "question": "Who is most likely to write unit tests in a software development project?",
+    "type": "problem"
+  },
+  {
+    "company_name": "Brain Station 23",
+    "question": "Developers are responsible for writing unit tests to ensure that individual units of code are functioning correctly. Unit tests are typically written to test the functionality of the code.",
+    "type": "problem"
+  },
+  {
+    "company_name": "Brain Station 23",
+    "question": "Once upon a time, a group of detectives were presented with a challenge to identify which of the 1000 candies was poisoned before it caused harm to any living species. They had to act fast, as the poison would take effect within an hour of consumption. The detectives knew they could use test subjects, but they needed to determine the minimum number required to solve the mystery in time. Can you help them find the solution before it's too late?",
+    "type": "problem"
+  },
+  {
+    "company_name": "Brain Station 23",
+    "question": "In the Agile Model, what is the primary purpose of a \"sprint\"?",
+    "type": "problem"
+  },
+  {
+    "company_name": "Brain Station 23",
+    "question": "What does the static keyword mean when used with a method?",
+    "type": "problem"
+  },
+  {
+    "company_name": "Brain Station 23",
+    "question": "Why are immutable objects often preferred in OOP design?",
+    "type": "problem"
+  },
+  {
+    "company_name": "Brain Station 23",
+    "question": "You are given an undirected graph with weighted edges. Which algorithm would you use to find the Minimum Spanning Tree (MST)?",
+    "type": "problem"
+  },
+  {
+    "company_name": "Brain Station 23",
+    "question": "We can use Kruskal's algorithm or Prim's algorithm to find the Minimum Spanning Tree (MST) of an undirected graph with weighted edges.",
+    "type": "problem"
+  },
+  {
+    "company_name": "Brain Station 23",
+    "question": "What is the time complexity of searching for an element in a balanced binary search tree?",
+    "type": "problem"
+  },
+  {
+    "company_name": "Brain Station 23",
+    "question": "The time complexity of searching for an element in a balanced binary search tree is O(log n), where n is the number of nodes in the tree.",
+    "type": "problem"
+  },
+  {
+    "company_name": "Brain Station 23",
+    "question": "There are 100 light bulbs and 100 people. Initially, all bulbs are off. Person 1 flips every bulb (1, 2, 3, 4, …). Person 2 flips every 2nd bulb (2, 4, 6, …). Person 3 flips every 3rd bulb (3, 6, 9, …), and so on, until all 100 people have acted. How many people would have flipped bulb number 72?",
+    "type": "problem"
+  },
+  {
+    "company_name": "Brain Station 23",
+    "question": "A circular queue has a size of 5 and currently contains 3 elements. How many more elements can you insert?",
+    "type": "problem"
+  },
+  {
+    "company_name": "Brain Station 23",
+    "question": "You are given the head of a circular singly linked list and an integer n. How would you remove the nth node from the end of the list efficiently?",
+    "type": "problem"
+  },
+  {
+    "company_name": "Brain Station 23",
+    "question": "You are working with a binary search tree (BST) and need to find the lowest common ancestor (LCA) of two nodes, u and v. Which of the following is the most efficient approach for finding the LCA in a BST, assuming no additional balancing is applied?",
+    "type": "problem"
+  },
+  {
+    "company_name": "Brain Station 23",
+    "question": "The most efficient approach is to traverse the BST from the root, moving left if both u and v are smaller, right if both are larger, and stopping when the current node is between u and v (i.e., the LCA). Time Complexity: O(h), where h is the tree height. Provided the tree is balanced, the height is log(n).",
+    "type": "problem"
+  },
+  {
+    "company_name": "Brain Station 23",
+    "question": "What is the next term in the series: 1, 4, 9, 16, 25, __?",
+    "type": "problem"
+  },
+  {
+    "company_name": "Brain Station 23",
+    "question": "In a many-to-many relationship between two database tables, which of the following is typically used to model the relationship?",
+    "type": "problem"
+  },
+  {
+    "company_name": "Brain Station 23",
+    "question": "Given a code, you have to determine which OOP features is not used in the code above?",
+    "type": "problem"
+  },
+  {
+    "company_name": "Brain Station 23",
+    "question": "Which of the option in a given list is NOT a valid SQL data type?",
+    "type": "problem"
+  },
+  {
+    "company_name": "Brain Station 23",
+    "question": "Given a list of statements, which of them is false for dynamic programming?",
+    "type": "problem"
+  },
+  {
+    "company_name": "Brain Station 23",
+    "question": "A game development team is working on a character system where all characters have a fight() method. Characters like Warrior, Mage, and Archer implement this method differently. Which concept ensures the correct method is executed based on the character type?",
+    "type": "problem"
+  },
+  {
+    "company_name": "Brain Station 23",
+    "question": "Given a list of situations, In which of them would a stack be most appropriate?",
+    "type": "problem"
+  },
+  {
+    "company_name": "Brain Station 23",
+    "question": "In a network of cities and roads, you are given n cities and m roads between them. Your task is to determine the minimum number of new roads required to ensure that there is a path between every pair of cities. What is the most suitable approach to solve this problem?",
+    "type": "problem"
+  },
+  {
+    "company_name": "Brain Station 23",
+    "question": "The most suitable approach is to create a connected graph using a Union-Find algorithm. The cities will be connected in multiple components. Each city in a component is connected to any other city in the same component using some series of roads. The minimum number of new roads required is the number of components minus one.",
+    "type": "problem"
+  },
+  {
+    "company_name": "Brain Station 23",
+    "question": "Given a graph in figure, What is the shortest path from a point A to point F using BFS?",
+    "type": "problem"
+  },
+  {
+    "company_name": "Brain Station 23",
+    "question": "Given a list of examples, which of them is an example of compile-time polymorphism?",
+    "type": "problem"
+  },
+  {
+    "company_name": "Brain Station 23",
+    "question": "You are given a list of n unique room numbers belonging to guests at a hotel. These numbers are in the range [0, n], but one guest's room number is missing from the list. What is the best possible space complexity for solving this problem?",
+    "type": "problem"
+  },
+  {
+    "company_name": "Brain Station 23",
+    "question": "Identify the What type of casting is demonstrated in a code segment?",
+    "type": "problem"
+  },
+  {
+    "company_name": "Brain Station 23",
+    "question": "Given some figures of graph, identify which is not a bipartite graph?",
+    "type": "problem"
+  },
+  {
+    "company_name": "Brain Station 23",
+    "question": "A bipartite graph is a graph whose vertices can be divided into two disjoint sets such that no two vertices within the same set are adjacent. A graph that contains an odd-length cycle is not a bipartite graph.",
+    "type": "problem"
+  },
+  {
+    "company_name": "Brain Station 23",
+    "question": "What is the purpose of the final keyword in OOP?",
+    "type": "problem"
+  },
+  {
+    "company_name": "Brain Station 23",
+    "question": "Write a SQL query to retrieve the names of all customers who have placed an order with a total value greater than $1000. Orders are in the orders table and customer information is in the customers table.",
+    "type": "problem"
+  },
+  {
+    "company_name": "Brain Station 23",
+    "question": "Given some statements about database keys, which of them is incorrect?",
+    "type": "problem"
+  },
+  {
+    "company_name": "Brain Station 23",
+    "question": "Given a number n, write a program to reverse the digits of the number.",
+    "type": "problem"
+  },
+  {
+    "company_name": "Brain Station 23",
+    "question": "Given a number n, write a program to find if the number is an armstrong number or not.",
+    "type": "problem"
+  },
+  {
+    "company_name": "Brain Station 23",
+    "question": "Write a program to print a string by removing",
+    "type": "problem"
+  },
+  {
+    "company_name": "Brain Station 23",
+    "question": "Write a program which will do the following for i = 1 to N .",
+    "type": "problem"
+  },
+  {
+    "company_name": "Brain Station 23",
+    "question": "Given an integer array nums, rotate the array to the right by k steps, where k is non-negative.",
+    "type": "problem"
+  },
+  {
+    "company_name": "Brain Station 23",
+    "question": "Given an unsorted array of integers nums, return the length of the longest consecutive elements sequence.:",
+    "type": "problem"
+  },
+  {
+    "company_name": "Brain Station 23",
+    "question": "Ex: Input: 5 3 2 1 After Sort: 1 2 3 5 Ans: 3 Bonus: Write an algorithm that runs in O(n) time.",
+    "type": "problem"
+  },
+  {
+    "company_name": "Brain Station 23",
+    "question": "Given two integers N (upto 18 digits) and M(≤100): Digits of the New Number:",
+    "type": "problem"
+  },
+  {
+    "company_name": "Brain Station 23",
+    "question": "If you had to choose 1 food to eat for the rest of your life, then what would it be? why?",
+    "type": "problem"
+  },
+  {
+    "company_name": "Brain Station 23",
+    "question": "When do you feel sad the most?",
+    "type": "problem"
+  },
+  {
+    "company_name": "Brain Station 23",
+    "question": "This test is language dependent. You'll be asked to chose a language eg Java, JavaScript, Python etc and the questions will be based on that language. There are about 15 questions in this test. The topics are from core language features, loop, time complexity, data structures, algorithm etc.",
+    "type": "problem"
+  },
+  {
+    "company_name": "Brain Station 23",
+    "question": "Create presentations on a ticket management system",
+    "type": "problem"
+  },
+  {
+    "company_name": "Brain Station 23",
+    "question": "Given some code, you'll need to figure out the time complexity of the code",
+    "type": "problem"
+  },
+  {
+    "company_name": "Brain Station 23",
+    "question": "Create a simple system for a task management system.",
+    "type": "problem"
+  },
+  {
+    "company_name": "Brain Station 23",
+    "question": "Implement additional features like pagination, search, filtering etc",
+    "type": "problem"
+  },
+  {
+    "company_name": "Brain Station 23",
+    "question": "Write unit tests for the core logics. Add instructions on how to run the tests.",
+    "type": "problem"
+  },
+  {
+    "company_name": "Brain Station 23",
+    "question": "What is primitive and non primitive data types? How are they different? When can their values be changed?",
+    "type": "problem"
+  },
+  {
+    "company_name": "Brain Station 23",
+    "question": "Why are strings immutable in Java?",
+    "type": "problem"
+  },
+  {
+    "company_name": "Brain Station 23",
+    "question": "What are the 4 principles of OOP?",
+    "type": "problem"
+  },
+  {
+    "company_name": "Brain Station 23",
+    "question": "What is diamond problem?",
+    "type": "problem"
+  },
+  {
+    "company_name": "Brain Station 23",
+    "question": "Does Java support multiple inheritence?",
+    "type": "problem"
+  },
+  {
+    "company_name": "Brain Station 23",
+    "question": "How does Java tackle the multiple inheritence issue?",
+    "type": "problem"
+  },
+  {
+    "company_name": "Brain Station 23",
+    "question": "What features of Spring Boot have you used?",
+    "type": "problem"
+  },
+  {
+    "company_name": "Brain Station 23",
+    "question": "What is indexing in Database?",
+    "type": "problem"
+  },
+  {
+    "company_name": "DSI",
+    "question": "There is an array initially containing n numbers. then each of the numbers of the array is multiplied by 2. Now the array is 2 * n size and each element of the array gets shuffled. You are given the shuffled array of size 2 * n. You have to restore the original array.",
+    "type": "problem"
+  },
+  {
+    "company_name": "DSI",
+    "question": "Given n inputs each with n bits, output a number which was not in the given inputs and has n bits too.",
+    "type": "problem"
+  },
+  {
+    "company_name": "DSI",
+    "question": "What are the 7 layers in OSI networking model?",
+    "type": "problem"
+  },
+  {
+    "company_name": "DSI",
+    "question": "Given a string s, find the longest substring between two identical character.ex: afgksia -> ans: fgksi",
+    "type": "problem"
+  },
+  {
+    "company_name": "DSI",
+    "question": "Given a number n.return true if you find a middle element k such that sum of 1 to k and sum from k to n are equal.if there no one return false. ex: 49. output: true. explanation: 1 + 2 + ... + 35 = 35 + 36 + ... + 49",
+    "type": "problem"
+  },
+  {
+    "company_name": "DSI",
+    "question": "What is significance of this below operation?",
+    "type": "problem"
+  },
+  {
+    "company_name": "DSI",
+    "question": "Given three value a,b,c, write a program to determine if we can make a traingle using these as side lengths.",
+    "type": "problem"
+  },
+  {
+    "company_name": "Enosis Solutions",
+    "question": "You are given an n x n 2D matrix representing an image, rotate the image by 90 degrees (clockwise).",
+    "type": "problem"
+  },
+  {
+    "company_name": "Enosis Solutions",
+    "question": "Given an array nums. Find the average of the array excluding the maximum and minimum values.",
+    "type": "problem"
+  },
+  {
+    "company_name": "Enosis Solutions",
+    "question": "Given n cars in a row with their speeds and a specific position, calculate the total number of collisions that occur.",
+    "type": "problem"
+  },
+  {
+    "company_name": "Enosis Solutions",
+    "question": "Given an array of integers nums and queries in the form l, r. For each query, count the number of elements which are in range [l,r] in the array.",
+    "type": "problem"
+  },
+  {
+    "company_name": "Enosis Solutions",
+    "question": "Given an array of integers nums. Find the second maximum element in an array using only one loop.",
+    "type": "problem"
+  },
+  {
+    "company_name": "Enosis Solutions",
+    "question": "How do you center-align a right-angled triangle of numbers up to a given base limit?",
+    "type": "problem"
+  },
+  {
+    "company_name": "Enosis Solutions",
+    "question": "Convert a given string into a palindrome with the least number of changes.",
+    "type": "problem"
+  },
+  {
+    "company_name": "Enosis Solutions",
+    "question": "You are given two integer arrays nums1 and nums2, sorted in non-decreasing order. Merge nums1 and nums2 into a single array sorted in non-decreasing order.",
+    "type": "problem"
+  },
+  {
+    "company_name": "Enosis Solutions",
+    "question": "Given an array of integers, calculate the absolute difference between the sum of odd-indexed and even-indexed elements.",
+    "type": "problem"
+  },
+  {
+    "company_name": "Enosis Solutions",
+    "question": "How would you encrypt a string based on a given set of encryption rules?",
+    "type": "problem"
+  },
+  {
+    "company_name": "Enosis Solutions",
+    "question": "Given an array of integers nums. In each move pick two numbers from start and end of the array, store the smaller in output, then remove it. Repeat until empty. What will be the output array?",
+    "type": "problem"
+  },
+  {
+    "company_name": "Enosis Solutions",
+    "question": "Given an integer x, return true if x is a palindrome, and false otherwise.",
+    "type": "problem"
+  },
+  {
+    "company_name": "Enosis Solutions",
+    "question": "Given an integer array nums, rotate the array to the right by k steps, where k is non-negative.",
+    "type": "problem"
+  },
+  {
+    "company_name": "Enosis Solutions",
+    "question": "Given an array and a number, construct a number from the array digits, subtract the given number, and return the result.",
+    "type": "problem"
+  },
+  {
+    "company_name": "Enosis Solutions",
+    "question": "Given n, calculate the nth Fibonacci number F(n).",
+    "type": "problem"
+  },
+  {
+    "company_name": "Enosis Solutions",
+    "question": "Given two strings s and t, return true if t is an anagram of s, and false otherwise.",
+    "type": "problem"
+  },
+  {
+    "company_name": "Enosis Solutions",
+    "question": "Print all repeating elements in an array.",
+    "type": "problem"
+  },
+  {
+    "company_name": "Enosis Solutions",
+    "question": "Given a string queryIP, return \"IPv4\" if IP is a valid IPv4 address, \"IPv6\" if IP is a valid IPv6 address or \"Neither\" if IP is not a correct IP of any type.",
+    "type": "problem"
+  },
+  {
+    "company_name": "Enosis Solutions",
+    "question": "You are given a string, message, and a positive integer, limit. Split the string into lines such that each line has a maximum of limit characters. 💻 Submit Code",
+    "type": "problem"
+  },
+  {
+    "company_name": "Enosis Solutions",
+    "question": "Build a linked-list-based tree structure with left and right children.",
+    "type": "problem"
+  },
+  {
+    "company_name": "Enosis Solutions",
+    "question": "How would you build a tree structure from a list of given nodes?",
+    "type": "problem"
+  },
+  {
+    "company_name": "Enosis Solutions",
+    "question": "What are the key differences between a tree and a graph data structure?",
+    "type": "problem"
+  },
+  {
+    "company_name": "Enosis Solutions",
+    "question": "What are the four pillars of Object-Oriented Programming (OOP)?",
+    "type": "problem"
+  },
+  {
+    "company_name": "Enosis Solutions",
+    "question": "What is the time complexity of operations in a Red-Black Tree?",
+    "type": "problem"
+  },
+  {
+    "company_name": "Exabyting",
+    "question": "Array: An array is a collection of elements of the same data type stored in contiguous memory locations. It has a fixed size and allows random access to elements using an index.",
+    "type": "problem"
+  },
+  {
+    "company_name": "Exabyting",
+    "question": "Linked List: A linked list is a data structure that consists of nodes where each node contains data and a reference (link) to the next node in the sequence. It does not require contiguous memory allocation and allows dynamic memory allocation.",
+    "type": "problem"
+  },
+  {
+    "company_name": "Exabyting",
+    "question": "Binary Tree:A binary tree is a tree data structure in which each node has at most two children, which are referred to as the left child and the right child.",
+    "type": "problem"
+  },
+  {
+    "company_name": "Exabyting",
+    "question": "Binary Search Tree: A binary search tree is a binary tree in which the value of the left child is less than the parent node and the value of the right child is greater than the parent node.",
+    "type": "problem"
+  },
+  {
+    "company_name": "Exabyting",
+    "question": "NoSQL: NoSQL databases are primarily called non-relational or distributed databases. They can be document-based, key-value pairs, graph databases, or wide-column stores. They have dynamic schemas for unstructured data. NoSQL databases are horizontally scalable.",
+    "type": "problem"
+  },
+  {
+    "company_name": "Exabyting",
+    "question": "Primitive Data Types: Primitive values are data that are stored directly in a variable. These include numbers, booleans, strings, null, and undefined. When we assign a primitive value to a variable, a copy of that value is created and stored in memory. Any changes made to the variable do not affect the original value.",
+    "type": "problem"
+  },
+  {
+    "company_name": "Exabyting",
+    "question": "Reference Data Types: Reference values, on the other hand, are objects that are stored in memory and accessed through a reference. These include arrays, objects, and functions. When we assign a reference value to a variable, a reference to the original value is created and stored in memory. Any changes made to the variable affect the original value.",
+    "type": "problem"
+  },
+  {
+    "company_name": "Exabyting",
+    "question": "Map: A map is a data structure that stores key-value pairs. It is typically implemented as a balanced binary search tree, which gives it a time complexity of O(logn) for insertion, deletion, and search.",
+    "type": "problem"
+  },
+  {
+    "company_name": "Exabyting",
+    "question": "Unordered Map: An unordered map is a data structure that stores key-value pairs. It is typically implemented as a hash table, which gives it an average time complexity of O(1) for insertion, deletion, and search. However, in the worst case, the time complexity can go up to O(n) if there are many collisions.",
+    "type": "problem"
+  },
+  {
+    "company_name": "Exabyting",
+    "question": "Difference between Array and Linked List.",
+    "type": "problem"
+  },
+  {
+    "company_name": "Exabyting",
+    "question": "Read more from Array vs Linked List | GeeksforGeeks",
+    "type": "problem"
+  },
+  {
+    "company_name": "Exabyting",
+    "question": "Which sorting algorithm works better in the average case?",
+    "type": "problem"
+  },
+  {
+    "company_name": "Exabyting",
+    "question": "Merge sort and Quick sort work better in the average case. Merge sort has a time complexity of O(nlogn) in the worst case. Quick sort has a time complexity of O(nlogn) in the average case. Both are stable sorting algorithms and work well with large and medium datasets.",
+    "type": "problem"
+  },
+  {
+    "company_name": "Exabyting",
+    "question": "Suppose, you have to sort 1000 numbers, numbers can be positive and negative. Which algorithm will you use?",
+    "type": "problem"
+  },
+  {
+    "company_name": "Exabyting",
+    "question": "We can use merge sort to sort the 1000 numbers. Merge sort has a time complexity of O(nlogn) in the worst case. It is a stable sorting algorithm and works well with large and medium datasets. Merge sort is a divide and conquer algorithm.",
+    "type": "problem"
+  },
+  {
+    "company_name": "Exabyting",
+    "question": "What is Stack, Queue and Priority Queue?",
+    "type": "problem"
+  },
+  {
+    "company_name": "Exabyting",
+    "question": "Difference between Binary Tree and BST.",
+    "type": "problem"
+  },
+  {
+    "company_name": "Exabyting",
+    "question": "If the binary search tree is imbalanced, then we can make it balanced by using AVL tree or Red-Black tree. These trees are self-balancing binary search trees.",
+    "type": "problem"
+  },
+  {
+    "company_name": "Exabyting",
+    "question": "When we type a web address (www.google.com) in a web browser, what happens before we get the response?",
+    "type": "problem"
+  },
+  {
+    "company_name": "Exabyting",
+    "question": "What are the principles of OOP and why do we use OOP?",
+    "type": "problem"
+  },
+  {
+    "company_name": "Exabyting",
+    "question": "Suppose, we insert [1, 2, 3, 4] this array in BST. What will it look like after insertion? What is the search complexity in this tree? What if we want to make the search complexity O(logn)?",
+    "type": "problem"
+  },
+  {
+    "company_name": "Exabyting",
+    "question": "And the search complexity will be O(n) in this case. To make the search complexity O(logn), we have to make the tree balanced. We can use AVL tree or Red-Black tree to make the tree balanced.",
+    "type": "problem"
+  },
+  {
+    "company_name": "Exabyting",
+    "question": "Describe the indexing of the database. Can we index with a column that has duplicate elements?",
+    "type": "problem"
+  },
+  {
+    "company_name": "Exabyting",
+    "question": "Indexing is a data structure technique that is used to quickly locate and access the data in a database. it is created mainly using B+ trees.",
+    "type": "problem"
+  },
+  {
+    "company_name": "Exabyting",
+    "question": "Why React? What advantages does React give us over direct DOM manipulation?",
+    "type": "problem"
+  },
+  {
+    "company_name": "Exabyting",
+    "question": "Why shouldn’t we mutate props in the child component?",
+    "type": "problem"
+  },
+  {
+    "company_name": "Exabyting",
+    "question": "Why Tailwind? What benefits Tailwind give us compared to other CSS libraries?",
+    "type": "problem"
+  },
+  {
+    "company_name": "Exabyting",
+    "question": "What type of language is JavaScript? Compiled or Interpreted? How do they work?",
+    "type": "problem"
+  },
+  {
+    "company_name": "Exabyting",
+    "question": "JavaScript is a single-threaded language, so how does it maintain asynchronous tasks?",
+    "type": "problem"
+  },
+  {
+    "company_name": "Exabyting",
+    "question": "Explain the event loop. Have you ever seen the implementations of libuv?",
+    "type": "problem"
+  },
+  {
+    "company_name": "Exabyting",
+    "question": "Explain closure. The inner function (which is returned) of the closure has access to its outer scope, how is it possible, where the variable is stored in that time?",
+    "type": "problem"
+  },
+  {
+    "company_name": "Exabyting",
+    "question": "What is a pure function?",
+    "type": "problem"
+  },
+  {
+    "company_name": "Exabyting",
+    "question": "A pure function is a function where the return value is determined by its input values, without observable side effects. This is how a pure function works:",
+    "type": "problem"
+  },
+  {
+    "company_name": "Exabyting",
+    "question": "Do you follow any functional programming philosophy?",
+    "type": "problem"
+  },
+  {
+    "company_name": "Exabyting",
+    "question": "Explain indexing. Why do we need indexing? What benefit does it give us?",
+    "type": "problem"
+  },
+  {
+    "company_name": "Exabyting",
+    "question": "Suppose, we want to use user_email as index. How can we do it?",
+    "type": "problem"
+  },
+  {
+    "company_name": "Exabyting",
+    "question": "Explain tree, binary tree, binary search tree. In a binary search tree, if the tree is imbalanced, then how can we make it balanced?",
+    "type": "problem"
+  },
+  {
+    "company_name": "Exabyting",
+    "question": "Explain the map, unordered_map and their complexity. Why does the complexity of the unordered_map go to O(n) in some cases?",
+    "type": "problem"
+  },
+  {
+    "company_name": "Exabyting",
+    "question": "Do you know there is an OOP feature which is only in C/C++?",
+    "type": "problem"
+  },
+  {
+    "company_name": "Exabyting",
+    "question": "Explain the difference between an array and a linked list. Tell me some use cases for each of them. How can we access an element of an array with the index?",
+    "type": "problem"
+  },
+  {
+    "company_name": "Exabyting",
+    "question": "Explain HTTP and HTTPS. Why HTTPS? How does data transfer in HTTPS? What is used under the hood to encrypt the communication between the sender and the receiver?",
+    "type": "problem"
+  },
+  {
+    "company_name": "Exabyting",
+    "question": "In HTTPS, data transfer is encrypted using SSL/TLS (Secure Sockets Layer / Transport Layer Security). When a user connects to a secure website, the browser and server perform an SSL/TLS handshake, exchanging encryption keys and verifying the server’s identity using an SSL certificate issued by a trusted Certificate Authority (CA). The encryption uses asymmetric cryptography (RSA, ECC) for key exchange and symmetric encryption (AES) for actual data transfer, ensuring secure communication.",
+    "type": "problem"
+  },
+  {
+    "company_name": "Exabyting",
+    "question": "Is HTTPS stateful or stateless? If stateless, then how can we browse Facebook after login once?",
+    "type": "problem"
+  },
+  {
+    "company_name": "Exabyting",
+    "question": "Explain cookie-based authentication. How can we blacklist a cookie?",
+    "type": "problem"
+  },
+  {
+    "company_name": "Exabyting",
+    "question": "Problem Statement: You'll be given two strings A and B, with lengths 1 <= length <= 10^6. The strings will contain only 1's and 0's. To make A a good string, you can insert B into A at any place, as many times as you want (or don't insert if you don't want). You have to print YES or NO depending on whether making A as a good string is possible.",
+    "type": "problem"
+  },
+  {
+    "company_name": "Exabyting",
+    "question": "The Definition of GOOD: A good string will never consecutively have two 1's or two 0's.",
+    "type": "problem"
+  },
+  {
+    "company_name": "Exabyting",
+    "question": "Input/Output: The input will consist of two strings in two lines, strings A and B.",
+    "type": "problem"
+  },
+  {
+    "company_name": "Exabyting",
+    "question": "The output must be only one word, \"YES\" or \"NO\".",
+    "type": "problem"
+  },
+  {
+    "company_name": "Exabyting",
+    "question": "Sample Input/Output:",
+    "type": "problem"
+  },
+  {
+    "company_name": "Exabyting",
+    "question": "Convert a decimal number to binary and show the output in string.",
+    "type": "problem"
+  },
+  {
+    "company_name": "Fringecore",
+    "question": "Write a Node.js program to decrypt and reconstruct the original messages to uncover the content of their communication.",
+    "type": "problem"
+  },
+  {
+    "company_name": "Fringecore",
+    "question": "Your program should write a file named decrypted.json with all the messages in an array.",
+    "type": "problem"
+  },
+  {
+    "company_name": "Fringecore",
+    "question": "Implement a kernel function that generates a color picker gradient",
+    "type": "problem"
+  },
+  {
+    "company_name": "Fringecore",
+    "question": "Create horizontal gradients from white to the primary color",
+    "type": "problem"
+  },
+  {
+    "company_name": "Fringecore",
+    "question": "Returns the correct channel value based on the thread position",
+    "type": "problem"
+  },
+  {
+    "company_name": "Fringecore",
+    "question": "GET /blocking-get?key=meow&groupId=3: Waits up to 30 seconds for event to be pushed with the key meowIf there are already unconsumed events for key meow and groupId 3, return all unconsumed events for that specific key and groupReturns an empty array [] if no events arrive within 30 seconds",
+    "type": "problem"
+  },
+  {
+    "company_name": "Fringecore",
+    "question": "Returns an empty array [] if no events arrive within 30 seconds",
+    "type": "problem"
+  },
+  {
+    "company_name": "Fringecore",
+    "question": "Build a recursive partitioner",
+    "type": "problem"
+  },
+  {
+    "company_name": "Fringecore",
+    "question": "Build a GPU-accelerated color picker",
+    "type": "problem"
+  },
+  {
+    "company_name": "Fringecore",
+    "question": "Develop a GPU-accelerated color picker with a unique pentagon shape, focusing on implementing the core color computation logic using GPU.js, while utilizing the provided React wrapper and UI components. The color picker should generate smooth gradients, handling hue transitions across the color spectrum. Horizontal gradients should transition from white to the primary color, while vertical gradients should range from white to black.",
+    "type": "problem"
+  },
+  {
+    "company_name": "Fringecore",
+    "question": "Build a block graph",
+    "type": "problem"
+  },
+  {
+    "company_name": "Fringecore",
+    "question": "Build an interactive page where, upon loading, a block appears at a random position on the screen. Each block should feature a \"+\" button, which, when pressed, spawns a new block at another random position. All blocks should be draggable using mouse clicks, allowing users to reposition them freely. A dashed line should visually connect each new block to its parent, i.e., the block on which the \"+\" button was pressed. These connecting lines must dynamically adjust their position to reflect any movement of the parent or child blocks, maintaining their connection at all times.",
+    "type": "problem"
+  },
+  {
+    "company_name": "Fringecore",
+    "question": "Build a interactive bouncing ball",
+    "type": "problem"
+  },
+  {
+    "company_name": "Fringecore",
+    "question": "Create an interactive bouncing ball simulation featuring a ball centered on a blank canvas at the start.",
+    "type": "problem"
+  },
+  {
+    "company_name": "Fringecore",
+    "question": "Build an interactive polygon drawing tool",
+    "type": "problem"
+  },
+  {
+    "company_name": "Fringecore",
+    "question": "Build an interactive polygon drawing tool that features a blank canvas upon project initialization, allowing users to create and edit polygons. Users can define a polygon by clicking points to create vertices and closing the shape by clicking near the starting point. Multiple polygons can be drawn on the same canvas, each created by sequential clicks, with a dashed line previewing the next edge before the polygon is closed. Closed polygons are automatically filled with a semi-transparent color.",
+    "type": "problem"
+  },
+  {
+    "company_name": "Fringecore",
+    "question": "Build an interactive art-board",
+    "type": "problem"
+  },
+  {
+    "company_name": "Fringecore",
+    "question": "Build an interactive art-board featuring a clean white canvas and two tools— a pen tool and an eraser tool—accessible from the top toolbar. When the pen tool is selected, users can draw on the canvas by pressing and holding the mouse button while moving the cursor, creating continuous lines. Releasing the mouse button stops the drawing action.",
+    "type": "problem"
+  },
+  {
+    "company_name": "Fringecore",
+    "question": "We don’t really know when the data will end, hence it is absolutely critical that our proxy server that hides secret information does not wait for the entire data before giving output.",
+    "type": "problem"
+  },
+  {
+    "company_name": "Fringecore",
+    "question": "Sample Input",
+    "type": "problem"
+  },
+  {
+    "company_name": "Fringecore",
+    "question": "Sample Output",
+    "type": "problem"
+  },
+  {
+    "company_name": "Fringecore",
+    "question": "Create a GPU-accelerated color picker with a unique pentagon shape. You'll be implementing the core color computation logic using GPU.js, while we provide the React wrapper and UI components.",
+    "type": "problem"
+  },
+  {
+    "company_name": "Fringecore",
+    "question": "Implement the kernelFunction in kernel.js that:",
+    "type": "problem"
+  },
+  {
+    "company_name": "Inverse AI",
+    "question": "You are given a positive integer N. Find the number of triples (X,Y,Z) such that:",
+    "type": "problem"
+  },
+  {
+    "company_name": "Inverse AI",
+    "question": "You are given an integer n. A game is played on a square field consisting of n × n cells. Initially all cells are empty. On each turn a player chooses and paint an empty cell that has no common sides with previously painted cells. Adjacent corner of painted cells is allowed. On the next turn another player does the same, then the first one and so on. The player with no cells to paint on his turn loses. Output the player who wins",
+    "type": "problem"
+  },
+  {
+    "company_name": "Inverse AI",
+    "question": "You are given a chess board of size (2n)(2n), some of the color of the board is flipped and the board is broken down in 4 square piece each with size nn. You can join the 4 pieces in any order without rotating or flipping. As the some of the colors were flipped, so to get a valid chessboard there must need to be some recoloring. Output the minimum number of recoloring such that the 4 pieces can be joined to get a valid chessboard.",
+    "type": "problem"
+  },
+  {
+    "company_name": "Inverse AI",
+    "question": "You have a string of N decimal digits.",
+    "type": "problem"
+  },
+  {
+    "company_name": "Inverse AI",
+    "question": "Formally, you have to print the number of pairs (i,j) such that the string A[i],A[i+1]...A[j], (C ≤ i ≤ j ≤ D), when considered as a decimal number, is divisible by 3",
+    "type": "problem"
+  },
+  {
+    "company_name": "Inverse AI",
+    "question": "There is a robot in a undirected tree. The robot will move from a node to any of its adjacent node with equal probability. What is the expected number of moves required for the robot to go from node a to node b.",
+    "type": "problem"
+  },
+  {
+    "company_name": "Inverse AI",
+    "question": "You are given an array of integers. You want to make the array non increasing. To do that you can cut out a subsegment of the array to discard and concat the remaining segment(s). What is the minimum length of the cut segment to make the remaining parts nondecreasing.",
+    "type": "problem"
+  },
+  {
+    "company_name": "Inverse AI",
+    "question": "Example: [9,7,4,3,6,6,2] : we can remove the subsegment containing [4,3] to make the array [9,7,6,6,2] or remove the segment [6,6] to make the array [9,7,4,3,2]. Both of them are non increasing.",
+    "type": "problem"
+  },
+  {
+    "company_name": "IQVIA",
+    "question": "Given a string of lowercase characters. Find the count of characters which only occured once in the string.",
+    "type": "problem"
+  },
+  {
+    "company_name": "IQVIA",
+    "question": "Given n,Find all primes less than equal n.",
+    "type": "problem"
+  },
+  {
+    "company_name": "IQVIA",
+    "question": "Given coordinates x,y and radius r of two circle. Find the area of intersection between them. Print area in double with 6 digit precision.",
+    "type": "problem"
+  },
+  {
+    "company_name": "IQVIA",
+    "question": "Given a list of ranges. Find the length covered by at least one of the range. input: [[1,3],[2,5],[6,7]] output: 5 explanation: range [1,5],[6,7] are covered by at least one range",
+    "type": "problem"
+  },
+  {
+    "company_name": "IQVIA",
+    "question": "Sort array elements by their frequency and in case of tie, keep the order they arrive in the original array.",
+    "type": "problem"
+  },
+  {
+    "company_name": "IQVIA",
+    "question": "Given the connection between cities, Count the number of disjoint clusters of cities.",
+    "type": "problem"
+  },
+  {
+    "company_name": "IQVIA",
+    "question": "Given a string of characters S and a specific character C. Find the number of occurance of C in S.",
+    "type": "problem"
+  },
+  {
+    "company_name": "IQVIA",
+    "question": "Given a range [l,r]. Find all primes between this range.",
+    "type": "problem"
+  },
+  {
+    "company_name": "IQVIA",
+    "question": "Given two binary string A,B. Find the minimum number of bit flips to change string A to string B.",
+    "type": "problem"
+  },
+  {
+    "company_name": "IQVIA",
+    "question": "Given an integer array. Sort the array in nondecreasing order using frequency count of elements in the array.",
+    "type": "problem"
+  },
+  {
+    "company_name": "IQVIA",
+    "question": "Given an array of thresholds. For each threshold print the first negative number.",
+    "type": "problem"
+  },
+  {
+    "company_name": "IQVIA",
+    "question": "Given a string s containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid.",
+    "type": "problem"
+  },
+  {
+    "company_name": "IQVIA",
+    "question": "You are a professional robber planning to rob houses along a street. Each house has a certain amount of money stashed, the only constraint stopping you from robbing each of them is that adjacent houses have security systems connected and it will automatically contact the police if two adjacent houses were broken into on the same night. Given an integer array nums representing the amount of money of each house, return the maximum amount of money you can rob tonight without alerting the police",
+    "type": "problem"
+  },
+  {
+    "company_name": "IQVIA",
+    "question": "Input given is an int array, which may or may not contain positive, negative or zero values. Write a program to find out the two numbers which gives the highest product.",
+    "type": "problem"
+  },
+  {
+    "company_name": "IQVIA",
+    "question": "https://www.geeksforgeeks.org/return-a-pair-with-maximum-product-in-array-of-integers/",
+    "type": "problem"
+  },
+  {
+    "company_name": "IQVIA",
+    "question": "Given an array having 0 to n-1 unsorted. Return a new array having their indices",
+    "type": "problem"
+  },
+  {
+    "company_name": "IQVIA",
+    "question": "Given two strings, find the number of times the second string occurs in the first string, whether continuous or discontinuous.",
+    "type": "problem"
+  },
+  {
+    "company_name": "IQVIA",
+    "question": "https://www.geeksforgeeks.org/find-number-times-string-occurs-given-string/",
+    "type": "problem"
+  },
+  {
+    "company_name": "IQVIA",
+    "question": "Given an array of positive integers. We need to make the given array a ‘Palindrome’. The only allowed operation is”merging” (of two adjacent elements). Merging two adjacent elements means replacing them with their sum. The task is to find the array of maximum length with the minimum number of merge operations required to make the given array a ‘Palindrome’.",
+    "type": "problem"
+  },
+  {
+    "company_name": "IQVIA",
+    "question": "https://www.geeksforgeeks.org/find-minimum-number-of-merge-operations-to-make-an-array-palindrome/",
+    "type": "problem"
+  },
+  {
+    "company_name": "Priyo",
+    "question": "Given an array of positive integers and a integer p. Find the length of the minimum subarray upon deleting which the sum of remaining element will be divisible by p;",
+    "type": "problem"
+  },
+  {
+    "company_name": "Priyo",
+    "question": "Follow up 1: find the number of subarray (need not be minimum) deleting which will result the sum to be divisible by p",
+    "type": "problem"
+  },
+  {
+    "company_name": "Priyo",
+    "question": "Follow up 2: For each index find the number of times it is included in any subarray upon deleting which the remaining sum will be divisible by p",
+    "type": "problem"
+  },
+  {
+    "company_name": "Priyo",
+    "question": "You are given an array people and an integer limit, where people[i] is the weight of the ith person, and an infinite number of boats where each boat can carry a maximum weight of limit. Each boat carries at most two people at the same time, provided the sum of the weight of those people is at most limit.",
+    "type": "problem"
+  },
+  {
+    "company_name": "Priyo",
+    "question": "Return the minimum number of boats to carry every given person.",
+    "type": "problem"
+  },
+  {
+    "company_name": "Priyo",
+    "question": "Given an array of n colored balls. And some boxes. Each box has some capacity and each box must contain balls of same color. What is the maximum number of balls that the boxes can carry? Constraint: max capacity of box - min capacity of box <= 1",
+    "type": "problem"
+  },
+  {
+    "company_name": "Priyo",
+    "question": "Given an array of n integers.Find max subarray sum with at most one delete.",
+    "type": "problem"
+  },
+  {
+    "company_name": "Priyo",
+    "question": "Given an array of n integers. Find the number of subarrays where the maximum element is between x and y",
+    "type": "problem"
+  },
+  {
+    "company_name": "Priyo",
+    "question": "How authentication is done in microservice based applications?",
+    "type": "problem"
+  },
+  {
+    "company_name": "Kite Games Studio",
+    "question": "add i f: Add the string L[i] to the list P a total of f times.",
+    "type": "problem"
+  },
+  {
+    "company_name": "Kite Games Studio",
+    "question": "delete i f: Let t be the number of occurrences of string L[i] in list P. Delete min(f, t) occurrences of L[i] from list P.",
+    "type": "problem"
+  },
+  {
+    "company_name": "Kite Games Studio",
+    "question": "count i j: Sort the elements of list P in lexicographic order, then count the number of strings in P that are between L[i] and L[j] (inclusive).",
+    "type": "problem"
+  },
+  {
+    "company_name": "Kite Games Studio",
+    "question": "1 ≤ N ≤ 105 - Number of strings in list L.",
+    "type": "problem"
+  },
+  {
+    "company_name": "Kite Games Studio",
+    "question": "The total length of all strings in L is at most 2 × 106, and each string length is between 1 and 106 characters.",
+    "type": "problem"
+  },
+  {
+    "company_name": "Kite Games Studio",
+    "question": "Design a data structure to add integers and remove the most frequent element, with ties broken by recency.",
+    "type": "problem"
+  },
+  {
+    "company_name": "Kite Games Studio",
+    "question": "Design a data structure that supports the following two operations:",
+    "type": "problem"
+  },
+  {
+    "company_name": "Kite Games Studio",
+    "question": "The constraints for the operations are:",
+    "type": "problem"
+  },
+  {
+    "company_name": "Kite Games Studio",
+    "question": "What are the main concepts of OOP?",
+    "type": "problem"
+  },
+  {
+    "company_name": "Kite Games Studio",
+    "question": "Implement the Singleton pattern.",
+    "type": "problem"
+  },
+  {
+    "company_name": "Kite Games Studio",
+    "question": "Given a string s and multiple queries. Each query consists of a string t. Check if t is a subsequence of s.2025",
+    "type": "problem"
+  },
+  {
+    "company_name": "Kite Games Studio",
+    "question": "You are given an integer array nums and two integers indexDiff and valueDiff. Find a pair of indices (i, j) such that: i != j, abs(i - j) <= indexDiff and abs(nums[i] - nums[j]) <= valueDiff.2025",
+    "type": "problem"
+  },
+  {
+    "company_name": "Kite Games Studio",
+    "question": "You have a list of unique strings and an empty list. You'll be given queries to add strings to the empty list, delete strings from it, and count the number of strings between two given strings in the list after sorting it. 2024",
+    "type": "problem"
+  },
+  {
+    "company_name": "Kite Games Studio",
+    "question": "Constraints:",
+    "type": "problem"
+  },
+  {
+    "company_name": "Kite Games Studio",
+    "question": "Given a number N, find the number of integers between [1,N] that has odd number of divisors. Jr SWE 2025",
+    "type": "problem"
+  },
+  {
+    "company_name": "Kite Games Studio",
+    "question": "Given an array of pairs indicating the size and reward of each item. You will be given a minimum and maximum size of the bag. You need to find the maximum reward you can get by filling the bag with items. Jr SWE 2025",
+    "type": "problem"
+  },
+  {
+    "company_name": "Kite Games Studio",
+    "question": "Given an array A of size N and some queries. Each query will ask for f(l,r) where the function computes the sum of the greatest common divisors over all prefixes of some range [l,r]. Jr SWE 2025",
+    "type": "problem"
+  },
+  {
+    "company_name": "Kite Games Studio",
+    "question": "Given a permutation of size N. You will change the permutation repeatedly. In each operation, you will create a new permutation b such that b[i] = a[a[i]] for all 1 ≤ i ≤ n. Then replace a with b. You need to find the number of operations required to make the permutation sorted or report that it is impossible. Jr SWE 2025",
+    "type": "problem"
+  },
+  {
+    "company_name": "Kite Games Studio",
+    "question": "Given a grid of size N and M with digit 0 and 1. The grid indicates some patterns which are not connected. The patterns can be rotated or stretched too. You will need to find the patterns present in the grid. Jr SWE 2025",
+    "type": "problem"
+  },
+  {
+    "company_name": "Orbitax",
+    "question": "You are given an HTML string. Your task is to determine the number of characters encompassed by each HTML tag in the string. For each tag, count the number of characters that are enclosed between the opening () tags.",
+    "type": "problem"
+  },
+  {
+    "company_name": "Orbitax",
+    "question": "You are given a string S of length N and an integer K. Your task is to find the total number of subsequences in S that match the pattern P = \"orbitaxian\", where the difference in position between every consecutive character in the subsequence is no more than K.",
+    "type": "problem"
+  },
+  {
+    "company_name": "Orbitax",
+    "question": "More formally, let the subsequence of P be represented by an array pos, where (1 ≤ pos[i] ≤ N) and S[pos[i]] = P[i]. Then for each i > 1, the condition pos[i] − pos[i-1] ≤ K must hold.",
+    "type": "problem"
+  },
+  {
+    "company_name": "Orbitax",
+    "question": "You are given an array of weights of length 200 and 3 buckets. The sum of total weights of the array will not exceed 100. You need to distribute the weights among the buckets such that the maximum value of the difference between the sum of weights in any two bucket is minimum.",
+    "type": "problem"
+  },
+  {
+    "company_name": "Optimizely",
+    "question": "Build a tshirt distribution system",
+    "type": "problem"
+  },
+  {
+    "company_name": "Optimizely",
+    "question": "Write a function to solve this problem. Define the function name, input parameters, and output type as you wish. The goal is to minimize the deviation of the number of shirts in each bag, i.e., distribute as evenly as possible, with the important aspect that only a single bag can have a different number of shirts. For example, if you have 10 bags and 103 shirts, then 9 bags can have 10 shirts, and the last bag can have 13 shirts. Here the deviation is 13 - 10 = 3, which is the minimum deviation.",
+    "type": "problem"
+  },
+  {
+    "company_name": "Optimizely",
+    "question": "Constraints / Assumptions:",
+    "type": "problem"
+  },
+  {
+    "company_name": "Optimizely",
+    "question": "Design a Backend for a Simplified Version of Internet Banking",
+    "type": "problem"
+  },
+  {
+    "company_name": "Relisource",
+    "question": "The maze is stored in a 2D array. The 2D maze array will be defined globally.",
+    "type": "problem"
+  },
+  {
+    "company_name": "Relisource",
+    "question": "Write JavaScript code to check if a button is clicked in an HTML element using an EventListener. Upon clicking, the size of the HTML element should increase by 10%.",
+    "type": "problem"
+  },
+  {
+    "company_name": "Relisource",
+    "question": "Your task is to write a function in the C programming language to find an optimal route cost to a target location inside a maze and return the highest 4 bits (MSB + 3 bits) of the optimal route cost value. Your function should take as input two integer numbers for the starting index on the maze array. An optimal route is defined as a complete path from the start point to the target location that requires the least effort/cost. Diagonal movement in the maze is not allowed. An example maze is given below:",
+    "type": "problem"
+  },
+  {
+    "company_name": "RoBenDevs",
+    "question": "Given the root of a binary tree, return the inorder traversal of its nodes values.",
+    "type": "problem"
+  },
+  {
+    "company_name": "RoBenDevs",
+    "question": "Given a Directed Cyclic graph find the sum of all the nodes at level three from the root node",
+    "type": "problem"
+  },
+  {
+    "company_name": "RoBenDevs",
+    "question": "To solve this problem we can use a BFS traversal of the graph. We can keep track of the level of each node and when we reach the third level we can sum all the nodes at that level.",
+    "type": "problem"
+  },
+  {
+    "company_name": "RoBenDevs",
+    "question": "Given the head of a linked list, remove the nth node from the end of the list and return its head.",
+    "type": "problem"
+  },
+  {
+    "company_name": "RoBenDevs",
+    "question": "Solve a problem related to finding the Minimum Spanning Tree in a graph.",
+    "type": "problem"
+  },
+  {
+    "company_name": "RoBenDevs",
+    "question": "Given the root of a binary tree, invert/mirror the tree, and return its root.",
+    "type": "problem"
+  },
+  {
+    "company_name": "RoBenDevs",
+    "question": "Determine the number of connected components in an undirected graph.",
+    "type": "problem"
+  },
+  {
+    "company_name": "RoBenDevs",
+    "question": "Design a system that will be used to monitor the usage of electricity of meters across a area. The system should be able to show the usage of electricity in real time and also be able to show the usage of electricity over a period of time.",
+    "type": "problem"
+  },
+  {
+    "company_name": "RoBenDevs",
+    "question": "Design a system where a single restaurant offers home delivery services across the entire country. You don’t need to worry about the payment gateway, as that is handled by a third party.",
+    "type": "problem"
+  },
+  {
+    "company_name": "Shanghai BDCOM",
+    "question": "pointer, memory, sizeof, struct, define, enum, string, unsigned char/int, short int, array output tracing type problems (search on google, you may find tons of output tracing problems), 1’s/2’s complement, sign magnitude, arithmetic/logical shift",
+    "type": "problem"
+  },
+  {
+    "company_name": "Shanghai BDCOM",
+    "question": "Output tracing with various conditional operators",
+    "type": "problem"
+  },
+  {
+    "company_name": "Shanghai BDCOM",
+    "question": "There are N train coaches numbered from 1 to N placed in sequence on a left track. The coaches can be moved either directly to the right track or temporarily to a spur track (which behaves like a stack). Once a coach moves from the left track to either the spur or the right, it cannot return to the left. Print all possible valid output sequences (permutations) in which the coaches can arrive at the right track using the spur as intermediate storage.",
+    "type": "problem"
+  },
+  {
+    "company_name": "Shanghai BDCOM",
+    "question": "Four people need to cross a bridge at night. They have one torch and the bridge can only hold two people at a time. Each person walks at a different speed: 1, 2, 5, and 10 minutes. If two people cross together, they must go at the slower person’s pace. What is the minimum total time required for all four people to cross the bridge?",
+    "type": "problem"
+  },
+  {
+    "company_name": "Shanghai BDCOM",
+    "question": "You are given two candles of equal length. Each candle takes exactly 60 minutes to burn, but they burn at inconsistent rates (i.e., half the candle may not burn in 30 minutes). How can you measure exactly 45 minutes using these two candles? [Also called the The Burning Candles problem]",
+    "type": "problem"
+  },
+  {
+    "company_name": "Shanghai BDCOM",
+    "question": "There are 10 jars of pills. One jar contains pills that weigh 9 grams each, while the others contain pills weighing 10 grams each. Using a weighing scale only once, how can you determine which jar contains the lighter pills?",
+    "type": "problem"
+  },
+  {
+    "company_name": "Shanghai BDCOM",
+    "question": "Implement a function to perform preorder traversal of a binary tree using both recursive and iterative (loop-based) approaches.",
+    "type": "problem"
+  },
+  {
+    "company_name": "Shanghai BDCOM",
+    "question": "Write a program to add and delete a node in a doubly linked list. Your implementation should handle edge cases like deleting the head or tail nodes and adding a node at arbitrary positions.",
+    "type": "problem"
+  },
+  {
+    "company_name": "Shanghai BDCOM",
+    "question": "Compare arrays and linked lists in terms of memory usage, access time, insertion, and deletion. In which scenarios would you prefer one over the other?",
+    "type": "problem"
+  },
+  {
+    "company_name": "Shanghai BDCOM",
+    "question": "You are given unlimited coins of denominations 1, 2, and 5 cents. How many different ways can you make a total of 1 dollar (100 cents) using these coins?",
+    "type": "problem"
+  },
+  {
+    "company_name": "REVE Systems",
+    "question": "Time Complexity",
+    "type": "problem"
+  },
+  {
+    "company_name": "REVE Systems",
+    "question": "Finding error in code snippets",
+    "type": "problem"
+  },
+  {
+    "company_name": "REVE Systems",
+    "question": "Finding the output of code blocks",
+    "type": "problem"
+  },
+  {
+    "company_name": "REVE Systems",
+    "question": "Reverse a given singly linked list.",
+    "type": "problem"
+  },
+  {
+    "company_name": "REVE Systems",
+    "question": "At first, I used extra memory to store the reversed array.",
+    "type": "problem"
+  },
+  {
+    "company_name": "REVE Systems",
+    "question": "They told me not to use extra memory. So, I performed an in-place reversal of the linked list.",
+    "type": "problem"
+  },
+  {
+    "company_name": "REVE Systems",
+    "question": "Given a sequence 1, 1, 2, 3, 5, 8, 13, 21..., where the indices start at 1. For any given index, find the value of the sequence. For example, when the input is 3, the output is 2, and when the input is 6, the output is 8.",
+    "type": "problem"
+  },
+  {
+    "company_name": "REVE Systems",
+    "question": "At first, I used an array for storing the calculated results of the intermediate steps and built the array going forward.",
+    "type": "problem"
+  },
+  {
+    "company_name": "REVE Systems",
+    "question": "As I used an array to store the intermediate results, extra memory usage was involved. They told me not to use an array. Then I used three variables and performed swapping values as needed.",
+    "type": "problem"
+  },
+  {
+    "company_name": "REVE Systems",
+    "question": "They asked me to solve this problem using recursion. When implementing the recursion-based one, I first implemented the unoptimized version and later used an array for storing the intermediate values. After that, they asked me about the time and space complexities of the different approaches.",
+    "type": "problem"
+  },
+  {
+    "company_name": "REVE Systems",
+    "question": "Given the root of a binary tree and an integer targetSum, return true if the tree has a root-to-leaf path such that adding up all the values along the path equals targetSum.",
+    "type": "problem"
+  },
+  {
+    "company_name": "REVE Systems",
+    "question": "Why are getters and setters used in Java?",
+    "type": "problem"
+  },
+  {
+    "company_name": "REVE Systems",
+    "question": "Given a large input string without \\n present. Output the string of sentences where we will input the max letter count in a line. output the modified string, so if line breaks occur in the middle of a word, place it after a newline.",
+    "type": "problem"
+  },
+  {
+    "company_name": "REVE Systems",
+    "question": "Input:",
+    "type": "problem"
+  },
+  {
+    "company_name": "REVE Systems",
+    "question": "Output:",
+    "type": "problem"
+  },
+  {
+    "company_name": "REVE Systems",
+    "question": "What are the four pillars of OOP?",
+    "type": "problem"
+  },
+  {
+    "company_name": "REVE Systems",
+    "question": "What are the SOLID principles?",
+    "type": "problem"
+  },
+  {
+    "company_name": "REVE Systems",
+    "question": "What are the differences between the TCP and UDP protocols?",
+    "type": "problem"
+  },
+  {
+    "company_name": "REVE Systems",
+    "question": "Given two input strings, you have to find whether the second string is present in the first string. Please explain all the approaches for solving this problem.",
+    "type": "problem"
+  },
+  {
+    "company_name": "REVE Systems",
+    "question": "Do you have a plan for higher studies? When will you go abroad for higher studies?",
+    "type": "problem"
+  },
+  {
+    "company_name": "REVE Systems",
+    "question": "Why do you want to join a software company instead of joining a university as a faculty member?",
+    "type": "problem"
+  },
+  {
+    "company_name": "REVE Systems",
+    "question": "Write the code of the Singleton pattern and explain.",
+    "type": "problem"
+  },
+  {
+    "company_name": "Spectrum",
+    "question": "What is heap? How heap sort works? what is its run time?",
+    "type": "problem"
+  },
+  {
+    "company_name": "Spectrum",
+    "question": "What is AVL tree?",
+    "type": "problem"
+  },
+  {
+    "company_name": "Spectrum",
+    "question": "Given a singly linked list, more specifically the head of the linked list. Return the reverse of the list.",
+    "type": "problem"
+  },
+  {
+    "company_name": "Spectrum",
+    "question": "Why disk IO time increases if the chunk size is small?",
+    "type": "problem"
+  },
+  {
+    "company_name": "SRBD",
+    "question": "You are given n balloons, indexed from 0 to n - 1. Each balloon is painted with a number on it represented by an array nums. You are asked to burst all the balloons.",
+    "type": "problem"
+  },
+  {
+    "company_name": "SRBD",
+    "question": "If you burst the ith balloon, you will get nums[i - 1] * nums[i] * nums[i + 1] coins. If i - 1 or i + 1 goes out of bounds of the array, then treat it as if there is a balloon with a 1 painted on it.",
+    "type": "problem"
+  },
+  {
+    "company_name": "SRBD",
+    "question": "Return the maximum coins you can collect by bursting the balloons wisely.",
+    "type": "problem"
+  },
+  {
+    "company_name": "SRBD",
+    "question": "A linked list of length n is given such that each node contains an additional random pointer, which could point to any node in the list, or null. Construct a deep copy of the list.",
+    "type": "problem"
+  },
+  {
+    "company_name": "SRBD",
+    "question": "You are given the locations of the office, Mr. Kim’s home, and the customers; the number of the customers is in the range of 5 to 10.",
+    "type": "problem"
+  },
+  {
+    "company_name": "SRBD",
+    "question": "Write a program that, starting at the office, finds a (the) shortest path visiting all the customers and returning to his home. Your program only have to report the distance of a (the) shortest path.",
+    "type": "problem"
+  },
+  {
+    "company_name": "SRBD",
+    "question": "You are given a directed graph represented by an adjacency list. Your task is to detect if there exists a cycle in the graph. If a cycle is found, print the nodes of the cycle in sorted order. Additionally, provide the results for each test case in the format \"#testCaseNo node1 node2 ... nodeK\". If no cycle is present, print 0.",
+    "type": "problem"
+  },
+  {
+    "company_name": "SRBD",
+    "question": "You have string with repeated character. Example : abcaade. Count the number of characters that occur more than once. You can’t use array or map.",
+    "type": "problem"
+  },
+  {
+    "company_name": "SRBD",
+    "question": "In pen and paper write the inner workings of a BST. How does a BST work? How to insert and retrieve a value from a BST?",
+    "type": "problem"
+  },
+  {
+    "company_name": "SRBD",
+    "question": "Thread A and Thread B are running parallely. What will be the output of following code?",
+    "type": "problem"
+  },
+  {
+    "company_name": "SRBD",
+    "question": "Unpredictable. It is not guaranteed that which thread is currently accessing the cnt variable. Was asked a follow up question on how to solve this issue?",
+    "type": "problem"
+  },
+  {
+    "company_name": "SRBD",
+    "question": "Given 5 element. We want to search million time that will return if the searched element is present or no. What is the best time complexity.",
+    "type": "problem"
+  },
+  {
+    "company_name": "SRBD",
+    "question": "Follow up question. Suppose we have 5000 number each 500 digit. Now how will you search?",
+    "type": "problem"
+  },
+  {
+    "company_name": "Synesis IT",
+    "question": "Given a list of courses you have to take and a list of prerequisites, return the order in which you have to take the courses. If it is not possible to take all the courses return an empty list.",
+    "type": "problem"
+  },
+  {
+    "company_name": "Synesis IT",
+    "question": "Given an integer array of size n, find all elements that appear more than ⌊n/3⌋ times.",
+    "type": "problem"
+  },
+  {
+    "company_name": "Synesis IT",
+    "question": "Given string num representing a non-negative integer num, and an integer k, return the smallest possible integer after removing k digits from num.",
+    "type": "problem"
+  },
+  {
+    "company_name": "Synesis IT",
+    "question": "How would you manage your team if some teammate doesn't cooperate or doesn't contribute?",
+    "type": "problem"
+  },
+  {
+    "company_name": "Software Engineer",
+    "question": "Given an array of numbers indicating stock price of n consecutive days. If you buy stock at one day and sell at any later day what is the maximum profit that you can get?",
+    "type": "problem"
+  },
+  {
+    "company_name": "Software Engineer",
+    "question": "Given an array of n integers. You need to take all zeroes in array to the end without changing the relative order of remaining element. eg: [2,0,0,3,1,0,5] => [2,3,1,5,0,0,0]",
+    "type": "problem"
+  },
+  {
+    "company_name": "Software Engineer",
+    "question": "Given an array of n integers. Reorder the elements such that all odd numbers occur after even numbers.",
+    "type": "problem"
+  },
+  {
+    "company_name": "Software Engineer",
+    "question": "Given an array of strings. Print the sets of strings which are anagram. eg: [\"cat\",\"tab\",\"act\",\"bat\",\"taco\"] => [{\"cat\",\"act\"},{\"tab\",\"bat\"},{\"taco\"}]",
+    "type": "problem"
+  },
+  {
+    "company_name": "Software Engineer",
+    "question": "Given an array of n integers. Find the kth largest element in the array.",
+    "type": "problem"
+  },
+  {
+    "company_name": "Software Engineer",
+    "question": "Given two very large number in string format. Find the sum of the two number",
+    "type": "problem"
+  },
+  {
+    "company_name": "Software Engineer",
+    "question": "Given two binary tree. Check if they are identical [not isomorphism]",
+    "type": "problem"
+  },
+  {
+    "company_name": "Software Engineer",
+    "question": "Given two array of integers. Find the common elements between them.",
+    "type": "problem"
+  },
+  {
+    "company_name": "Software Engineer",
+    "question": "Find pairs with given target sum in a doubly linked list.",
+    "type": "problem"
+  },
+  {
+    "company_name": "Software Engineer",
+    "question": "Given an array of sides of triangles, return an array of strings. The strings would be either “yes” or “no”, corresponding to whether the same indexed triangle is a right triangle or not.",
+    "type": "problem"
+  },
+  {
+    "company_name": "Software Engineer",
+    "question": "Input: [[3,4,5], [5,9,12], [6,8,10]] Output: [\"yes\",\"no\",\"yes\"]",
+    "type": "problem"
+  },
+  {
+    "company_name": "Software Engineer",
+    "question": "A dictionary of sorted words was like this: [a, above, bad, broke, cat,..., yes, yolk, zoo]. After a malfunction it became this: [..., yes, yolk, zoo, a, above, bad, broke, cat,....]. Write a program so that given a word, one can find the word in the dictionary, with the same time complexity as when the dictionary was sorted.",
+    "type": "problem"
+  },
+  {
+    "company_name": "Software Engineer",
+    "question": "Given two strings s1, s2, return whether a substring of s1 is an anagram of s2",
+    "type": "problem"
+  },
+  {
+    "company_name": "Software Engineer",
+    "question": "Input: s1 = \"hello\", s2 = \"lol\" Output: True Input: s1 = \"hello\", s2 = \"loa\" Output: False",
+    "type": "problem"
+  },
+  {
+    "company_name": "Software Engineer",
+    "question": "Given two large numbers as strings, num1 and num2 with num1 larger than num2, return their difference in string format, using no direct string to int conversion or libraries.",
+    "type": "problem"
+  },
+  {
+    "company_name": "Software Engineer",
+    "question": "Given an array containing 0,1,2 sort it.",
+    "type": "problem"
+  },
+  {
+    "company_name": "Software Engineer",
+    "question": "Input: [2,0,1,1,0,2] Output: [0,0,1,1,2,2]",
+    "type": "problem"
+  },
+  {
+    "company_name": "Software Engineer",
+    "question": "Design this legacy table for using in a relational database.",
+    "type": "problem"
+  },
+  {
+    "company_name": "Database Engineer",
+    "question": "Find ranks based on some criterion. The extremely hard question was - find top 10 customers based on their total amount spent in 2023. This one involved the following topics: aggregation, join of multiple tables, nested sub-query, year extraction from date. The book of Sukarna sir contains one/two such exercises. Practise them properly",
+    "type": "problem"
+  },
+  {
+    "company_name": "Database Engineer",
+    "question": "Design an ERD of online restaurant management system",
+    "type": "problem"
+  },
+  {
+    "company_name": "ML Engineer",
+    "question": "Given an integer N, find all the divisors of N.",
+    "type": "problem"
+  },
+  {
+    "company_name": "ML Engineer",
+    "question": "Given two sorted arrays A and B, combine all the elements of A and B into a new sorted array C.",
+    "type": "problem"
+  },
+  {
+    "company_name": "ML Engineer",
+    "question": "For a binary tree, you are given a table of two columns N and P, where N represents the id of a node in the tree and P represents the parent of that node in the tree. Write a SQL query to find which the leaf, root and inner nodes and output a table fo the following format",
+    "type": "problem"
+  },
+  {
+    "company_name": "ML Engineer",
+    "question": "You are given realtime 120FPS CCTV footage of cars on a road. Assuming you have a model that can accurately identify cars and output an axis oriented bounding box for every detected car on a single frame.",
+    "type": "problem"
+  },
+  {
+    "company_name": "ML Engineer",
+    "question": "Given model's training and validation accuracy/loss curve, describe what the graph tells about the model and explain your reasoning. Also describe how you can mitigate the issue the model is facing.",
+    "type": "problem"
+  },
+  {
+    "company_name": "Associate System Adminstrator",
+    "question": "What is a kernel? What is the difference between a monolithic kernel and a microkernel?",
+    "type": "problem"
+  },
+  {
+    "company_name": "Associate System Adminstrator",
+    "question": "What is the difference between virtualization and containers?",
+    "type": "problem"
+  },
+  {
+    "company_name": "Associate System Adminstrator",
+    "question": "What are the advantages of cloud storage over local storage?",
+    "type": "problem"
+  },
+  {
+    "company_name": "Associate System Adminstrator",
+    "question": "What is the difference between HTTP and HTTPS?",
+    "type": "problem"
+  },
+  {
+    "company_name": "Associate System Adminstrator",
+    "question": "What is an IP address? Why is it necessary?",
+    "type": "problem"
+  },
+  {
+    "company_name": "Associate System Adminstrator",
+    "question": "What is a firewall?",
+    "type": "problem"
+  },
+  {
+    "company_name": "Associate System Adminstrator",
+    "question": "What is the difference between TCP and UDP?",
+    "type": "problem"
+  },
+  {
+    "company_name": "Associate System Adminstrator",
+    "question": "A user says they can ping 8.8.8.8 but not google.com. What might be the problem? How can you resolve it?",
+    "type": "problem"
+  },
+  {
+    "company_name": "Associate System Adminstrator",
+    "question": "In a local network, there is no packet loss in communication. However, after connecting it to the external network and accessing it from outside, there is packet loss. What could be the possible reasons? How can this be resolved?",
+    "type": "problem"
+  },
+  {
+    "company_name": "Associate System Adminstrator",
+    "question": "What are file permissions in Linux?",
+    "type": "problem"
+  },
+  {
+    "company_name": "Associate System Adminstrator",
+    "question": "You have a file where you applied chmod 777, but still cannot modify it. What could be the possible reason?",
+    "type": "problem"
+  },
+  {
+    "company_name": "WSD",
+    "question": "WSD or Wall Street Docs is a US based company trying to expand in Bangladesh.",
+    "type": "problem"
+  },
+  {
+    "company_name": "WSD",
+    "question": "Create a java console based movie listing application. Features include authentication (signin, login), adding movies, searching movies etc.",
+    "type": "problem"
+  },
+  {
+    "company_name": "WSD",
+    "question": "Create a java console based banking application. Features include creating, displaying, searching, updating and deleting an acount, depositing and withdrawing an amount to your account.",
+    "type": "problem"
+  },
+  {
+    "company_name": "WSD",
+    "question": "What is JWT token? What are the parts of a jwt token?",
+    "type": "problem"
+  },
+  {
+    "company_name": "WSD",
+    "question": "Given a 2D matrix where each row is sorted. Describe how to find an element in the matrix. What is the complexity of such approach?",
+    "type": "problem"
+  },
+  {
+    "company_name": "WSD",
+    "question": "Given a graph G and two nodes u and v of the graph. Find the lowest common ancestor of u and v.",
+    "type": "problem"
+  },
+  {
+    "company_name": "WSD",
+    "question": "What are the key points of OOP?",
+    "type": "problem"
+  },
+  {
+    "company_name": "WSD",
+    "question": "Describe abstract class and interface. What are their similarities and dissimilarities? What are their benefits?",
+    "type": "problem"
+  },
+  {
+    "company_name": "WSD",
+    "question": "What happens when final keyword is used with variables and classes?",
+    "type": "problem"
+  },
+  {
+    "company_name": "WSD",
+    "question": "Given a binary search tree, find/ insert an element in the tree",
+    "type": "problem"
+  },
+  {
+    "company_name": "WellDev",
+    "question": "What will the output of this code in C Programming Language and why?",
+    "type": "problem"
+  },
+  {
+    "company_name": "WellDev",
+    "question": "The name of the array is a pointer to the first item of the Array. So it will print \"They are the same!\"",
+    "type": "problem"
+  },
+  {
+    "company_name": "WellDev",
+    "question": "Given an array, what will be the base address if we print the array name only (e.g., printf(ara))?",
+    "type": "problem"
+  },
+  {
+    "company_name": "WellDev",
+    "question": "It will print the address of the first item of the array. In C, you can't pass array to functions by \"Pass by value\". So when you pass an array to an function (for example: printf(arr)), the compiler will actually pass the pointer to the first element. You can easily test this hypothesis by doing something like this:",
+    "type": "problem"
+  },
+  {
+    "company_name": "WellDev",
+    "question": "What is the time complexity of the print statement? if it's O(1) why is that? Is it the same case for Linked List? If it's not, why it isn't the same case?",
+    "type": "problem"
+  },
+  {
+    "company_name": "WellDev",
+    "question": "Can we run binary search on a sorted LinkedList? If we can, what issues we might face?",
+    "type": "problem"
+  },
+  {
+    "company_name": "WellDev",
+    "question": "Think about how and why arrays can be divided easily but LinkedList can't be.",
+    "type": "problem"
+  },
+  {
+    "company_name": "WellDev",
+    "question": "Write a code to delete the middle element of a stack without using any additional data structure while preserving the original order. Input: [1, 2, 3, 4, 5]. Output: [1, 2, 4, 5]",
+    "type": "problem"
+  },
+  {
+    "company_name": "WellDev",
+    "question": "Given the above function, rename the function according to what the function tries to achive.",
+    "type": "problem"
+  },
+  {
+    "company_name": "WellDev",
+    "question": "2nd Iteration: Write the same function but in a iterative manner. Does the both implementations have same Time Complexity and Space Complxity?",
+    "type": "problem"
+  },
+  {
+    "company_name": "WellDev",
+    "question": "Write down the stack trace of the recursive function and try to speak aloud while doing so. After getting what the function returns, rename the function accordingly.",
+    "type": "problem"
+  },
+  {
+    "company_name": "WellDev",
+    "question": "What is the time complexity of the following code?",
+    "type": "problem"
+  },
+  {
+    "company_name": "WellDev",
+    "question": "Given a table with redundant data in multiple columns, how would you optimize it? (Hint: Normalization)",
+    "type": "problem"
+  },
+  {
+    "company_name": "WellDev",
+    "question": "Given a Java code, identify issues that violate access modifiers.",
+    "type": "problem"
+  },
+  {
+    "company_name": "WellDev",
+    "question": "What are the ACID properties in DBMS?",
+    "type": "problem"
+  },
+  {
+    "company_name": "WellDev",
+    "question": "Write a SQL query to show all the duplicate rows in a table.",
+    "type": "problem"
+  },
+  {
+    "company_name": "WellDev",
+    "question": "Can we make a stack with a queue?",
+    "type": "problem"
+  },
+  {
+    "company_name": "WellDev",
+    "question": "Write an API call to check whether the system is running properly and explain a GET API call.",
+    "type": "problem"
+  },
+  {
+    "company_name": "WellDev",
+    "question": "What happens if two people try to reserve the same ticket simultaneously in a ticket reservation system? How would you solve this problem in a ticket management system? What will be your idea in this regard?",
+    "type": "problem"
+  },
+  {
+    "company_name": "WellDev",
+    "question": "How many APIs are required to solve the above ticket reservation problem?",
+    "type": "problem"
+  },
+  {
+    "company_name": "WellDev",
+    "question": "What is a trigger in DBMS, and what does cascading mean?",
+    "type": "problem"
+  },
+  {
+    "company_name": "WellDev",
+    "question": "What happens when we browse a website? How are the contents rendered?",
+    "type": "problem"
+  },
+  {
+    "company_name": "WellDev",
+    "question": "What is the difference between SQL and NoSQL?",
+    "type": "problem"
+  },
+  {
+    "company_name": "WellDev",
+    "question": "For storing values from cache memory to RAM, should we use SQL or NoSQL?",
+    "type": "problem"
+  },
+  {
+    "company_name": "WellDev",
+    "question": "Given an array of integers heights representing the histogram's bar height where the width of each bar is 1, return the area of the largest rectangle in the histogram.",
+    "type": "problem"
+  },
+  {
+    "company_name": "WellDev",
+    "question": "Given a table with product_id, price, and product_name, write a query to find products with the same price.",
+    "type": "problem"
+  },
+  {
+    "company_name": "WellDev",
+    "question": "What is the difference between DELETE, TRUNCATE, and DROP in SQL?",
+    "type": "problem"
+  },
+  {
+    "company_name": "WellDev",
+    "question": "How do you check for changes in a database?",
+    "type": "problem"
+  },
+  {
+    "company_name": "WellDev",
+    "question": "Given an integer array nums, move all 0's to the end of it while maintaining the relative order of the non-zero elements.",
+    "type": "problem"
+  },
+  {
+    "company_name": "Next pageBefore Application",
+    "question": "Create a GitHub account if you don’t already have one (hopefully, everyone here does).",
+    "type": "problem"
+  },
+  {
+    "company_name": "Next pageBefore Application",
+    "question": "Write a README for each repository. Most recruiters won’t run your code, so it’s better to include some kind of demo for your projects. This could be: Live websites, YouTube videos, Figma mockups, Screenshots",
+    "type": "problem"
+  },
+  {
+    "company_name": "Next pageBefore Application",
+    "question": "Build a simple personal website if you have time.",
+    "type": "problem"
+  },
+  {
+    "company_name": "Next pageBefore Application",
+    "question": "Create a LinkedIn account if you haven’t already.",
+    "type": "problem"
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "text": "There is an array initially containing n numbers. then each of the numbers of the array is multiplied by 2. Now the array is 2 * n size and each element of the array gets shuffled. You are given the shuffled array of size 2 * n. You have to restore the original array.",
+    "link": "https://supecoder.dev/questions/Find%20Original%20Array%20From%20Doubled%20Array?questionId=66ae10189e71a163cdd2011b",
+    "answer": null,
+    "code": null
+  },
+  {
+    "text": "Given n inputs each with n bits, output a number which was not in the given inputs and has n bits too.",
+    "answer": null,
+    "code": null
+  },
+  {
+    "text": "What are the 7 layers in OSI networking model?",
+    "answer": null,
+    "code": null
+  },
+  {
+    "text": "Given a string s, find the longest substring between two identical character. ex: afgksia -> ans: fgksi",
+    "answer": null,
+    "code": null
+  },
+  {
+    "text": "Given a number n. Return true if you find a middle element k such that sum of 1 to k and sum from k to n are equal. If there is no one return false. ex: 49. output: true. explanation: 1 + 2 + ... + 35 = 35 + 36 + ... + 49",
+    "answer": null,
+    "code": null
+  },
+  {
+    "text": "Apply database normalization technique to the following table",
+    "table": [
+      {"id": 1, "name": "shakib", "subject": "DSA", "marks": 400},
+      {"id": 2, "name": "rakib", "subject": "Algorithms", "marks": 100},
+      {"id": 3, "name": "showrov", "subject": "Networking", "marks": 300},
+      {"id": 4, "name": "kalam", "subject": "Algorithms", "marks": 100}
+    ]
+  },
+  {
+    "text": "Explain ACID properties",
+    "answer": null,
+    "code": null
+  },
+  {
+    "text": "Explain static keyword",
+    "answer": null,
+    "code": null
+  },
+  {
+    "text": "What is significance of this below operation?",
+    "code": "a=a^b;\nb=a^b;\na=a^b;"
+  },
+  {
+    "text": "Difference between authentication and authorization",
+    "answer": null,
+    "code": null
+  },
+  {
+    "text": "Given three value a,b,c, write a program to determine if we can make a triangle using these as side lengths.",
+    "answer": null,
+    "code": null
+  }
+]

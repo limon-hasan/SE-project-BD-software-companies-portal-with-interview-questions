@@ -1,0 +1,27 @@
+[
+  {
+    "text": "Given an array of integers, find the maximum subarray sum.",
+    "answer": "Use Kadane's algorithm: iterate, track current and max sum.",
+    "code": "function maxSubArray(nums) {\n  let maxSum = nums[0], currSum = nums[0];\n  for (let i = 1; i < nums.length; i++) {\n    currSum = Math.max(nums[i], currSum + nums[i]);\n    maxSum = Math.max(maxSum, currSum);\n  }\n  return maxSum;\n}"
+  },
+  {
+    "text": "Explain the difference between REST and GraphQL.",
+    "answer": "REST uses multiple endpoints for resources, GraphQL uses a single endpoint and allows clients to specify data shape.",
+    "code": null
+  },
+  {
+    "text": "What is closure in JavaScript? Provide an example.",
+    "answer": "A closure is a function that remembers variables from its outer scope even after the outer function has finished.",
+    "code": "function makeCounter() {\n  let count = 0;\n  return function() {\n    count++;\n    return count;\n  };\n}"
+  },
+  {
+    "text": "Design a database schema for an e-commerce platform.",
+    "answer": "Main tables: Users, Products, Orders, OrderItems, Categories. Use foreign keys for relationships.",
+    "code": null
+  },
+  {
+    "text": "How would you optimize a slow SQL query?",
+    "answer": "Add indexes, avoid SELECT *, analyze query plan, reduce joins/subqueries, cache results if possible.",
+    "code": null
+  }
+]

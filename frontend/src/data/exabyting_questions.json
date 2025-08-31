@@ -1,0 +1,62 @@
+[
+  {
+    "section": "Phone Interview",
+    "questions": [
+      {"text": "Difference between Array and Linked List."},
+      {"text": "Which sorting algorithm works better in the average case?"},
+      {"text": "Suppose, you have to sort 1000 numbers, numbers can be positive and negative. Which algorithm will you use?"},
+      {"text": "What is Stack, Queue and Priority Queue?"},
+      {"text": "Difference between Binary Tree and BST."},
+      {"text": "When we type a web address (www.google.com) in a web browser, what happens before we get the response?"},
+      {"text": "Difference between TCP and UDP."},
+      {"text": "What are the principles of OOP and why do we use OOP?"},
+      {"text": "Difference between SQL and NoSQL."},
+      {"text": "Difference between Compiler and Interpreter."}
+    ]
+  },
+  {
+    "section": "First Round",
+    "questions": [
+      {"text": "Explain BST."},
+      {"text": "Suppose, we insert [1, 2, 3, 4] this array in BST. What will it look like after insertion? What is the search complexity in this tree? What if we want to make the search complexity O(logn)?"},
+      {"text": "Left Join VS Full Join. Describe a scenario where we need to use Left Join."},
+      {"text": "Describe the ACID properties of the database."},
+      {"text": "Describe the indexing of the database. Can we index with a column that has duplicate elements?"},
+      {"text": "Describe the Event loop in JS."},
+      {"text": "What is closure? Describe."}
+    ]
+  },
+  {
+    "section": "Second Round",
+    "questions": [
+      {"text": "Why React? What advantages does React give us over direct DOM manipulation?"},
+      {"text": "Why shouldn’t we mutate props in the child component?"},
+      {"text": "Why Tailwind? What benefits Tailwind give us compared to other CSS libraries?"},
+      {"text": "What type of language is JavaScript? Compiled or Interpreted? How do they work?"},
+      {"text": "JavaScript is a single-threaded language, so how does it maintain asynchronous tasks?"},
+      {"text": "Explain the event loop. Have you ever seen the implementations of libuv?"},
+      {"text": "Explain var, let, const in JavaScript."},
+      {"text": "Explain hoisting."},
+      {"text": "Explain primitive and reference data types."},
+      {"text": "Explain closure. The inner function (which is returned) of the closure has access to its outer scope, how is it possible, where the variable is stored in that time?"},
+      {"text": "What is a pure function?"},
+      {"text": "Do you follow any functional programming philosophy?"},
+      {"text": "Explain the ACID properties of the database."},
+      {"text": "Explain indexing. Why do we need indexing? What benefit does it give us?"},
+      {"text": "Suppose, we want to use user_email as index. How can we do it?"},
+      {"text": "Explain tree, binary tree, binary search tree. In a binary search tree, if the tree is imbalanced, then how can we make it balanced?"},
+      {"text": "Explain the map, unordered_map and their complexity. Why does the complexity of the unordered_map go to O(n) in some cases?"},
+      {"text": "Explain the four principles of OOP."},
+      {"text": "Do you know there is an OOP feature which is only in C/C++?"},
+      {"text": "Explain the difference between an array and a linked list. Tell me some use cases for each of them. How can we access an element of an array with the index?"},
+      {"text": "Explain HTTP and HTTPS. Why HTTPS? How does data transfer in HTTPS? What is used under the hood to encrypt the communication between the sender and the receiver?"},
+      {"text": "Is HTTPS stateful or stateless? If stateless, then how can we browse Facebook after login once?"},
+      {"text": "Explain cookie-based authentication. How can we blacklist a cookie?"},
+      {"text": "Do you know the structure of JWT? Explain."},
+      {"text": "Problem Statement: You'll be given two strings A and B, with lengths 1 <= length <= 10^6. The strings will contain only 1's and 0's. To make A a good string, you can insert B into A at any place, as many times as you want (or don't insert if you don't want). You have to print YES or NO depending on whether making A as a good string is possible."},
+      {"text": "Convert a decimal number to binary and show the output in string."},
+      {"text": "Explain JOIN and composite keys in the database."},
+      {"text": "Learn about polymorphism and inheritance in DB in your free time. (This is not a question)."}
+    ]
+  }
+]
