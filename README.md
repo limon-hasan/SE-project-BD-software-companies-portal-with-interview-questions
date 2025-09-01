@@ -23,8 +23,8 @@ A comprehensive portal for Bangladeshi software engineers, providing company dir
 
 1. **Clone the repository**
     ```sh
-    git clone https://github.com/anisulislamnayem/SE-project.git
-    cd SE-project
+    git clone https://github.com/limon-hasan/SE-project-BD-software-companies-portal-with-interview-questions.git
+    cd SE-project-BD-software-companies-portal-with-interview-questions
     ```
 
 2. **Install dependencies**
