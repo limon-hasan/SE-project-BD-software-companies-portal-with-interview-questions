@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Code2Career BD
 
 A comprehensive portal for Bangladeshi software engineers, providing company directories, interview questions, salary insights, and competitive programming resources.
@@ -62,8 +61,6 @@ This project is licensed under the MIT License.
 ## 👤 Author
 
 Limon Hasan
-=======
 # New-SE-project
->>>>>>> ca0d8cd6db4289c00eda90d6cef35cd3421229ca
 
 
