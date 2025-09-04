@@ -60,6 +60,6 @@ This project is licensed under the MIT License.
 
 ## 👤 Author
 
-Limon Hasan
+Maksudul Hasan Limon
 
 
